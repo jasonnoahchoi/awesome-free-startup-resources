@@ -434,11 +434,11 @@ If you have another additional awesome free resource, please feel free to add it
 - [Mattermark Daily](https://mattermark.com/category/mattermark-daily/): Curated newsletter from investors & founders.
 - ChargeWhatYou’reWorth: Free course on charging what you’re worth.
 - [Product Psychology](https://productpsychology.com/): Lessons on User Behavior.
-- [UX Newsletter](http://newsletter.uxdesign.cc/): Tales of researching, designing, and building.
-- [UX Design Weekly](http://uxdesignweekly.com/): Best user experience design links every week.
+- [UX Newsletter](https://newsletter.uxdesign.cc/): Tales of researching, designing, and building.
+- [UX Design Weekly](https://uxdesignweekly.com/): Best user experience design links every week.
 
 # Misc Useful
-- [Foundrs](http://foundrs.com/): Co-founder equity calculator.
+- [Foundrs](https://foundrs.com/): Co-founder equity calculator.
 - Ad Spend Calculator: Should my startup pay to advertise?
 - HowMuchToMakeAnApp: Calculate the cost of a mobile application.
 - App vs. Website: Should you build an app or website?
