@@ -428,17 +428,17 @@ If you have another additional awesome free resource, please feel free to add it
 - Hackdesign: Receive a design lesson in your inbox each week.
 
 # Newsletters that Don't Suck
-- Email1K: A free 30 day course to double your email list.
-- Design for Hackers: 12 weeks of design learning, right in your inbox.
-- Startup Digest: Personalized newsletter for all things startup in your area.
-- Mattermark Daily: Curated newsletter from investors & founders.
+- [Email1K](https://email1k.com/): A free 30 day course to double your email list.
+- [Design for Hackers](https://designforhackers.com/): 12 weeks of design learning, right in your inbox.
+- [Startup Digest](https://www.startupdigest.com/): Personalized newsletter for all things startup in your area.
+- [Mattermark Daily](https://mattermark.com/category/mattermark-daily/): Curated newsletter from investors & founders.
 - ChargeWhatYou’reWorth: Free course on charging what you’re worth.
-- Product Psychology: Lessons on User Behavior.
-- UX Newsletter: Tales of researching, designing, and building.
-- UX Design Weekly: Best user experience design links every week.
+- [Product Psychology](https://productpsychology.com/): Lessons on User Behavior.
+- [UX Newsletter](https://newsletter.uxdesign.cc/): Tales of researching, designing, and building.
+- [UX Design Weekly](https://uxdesignweekly.com/): Best user experience design links every week.
 
 # Misc Useful
-- Foundrs: Co-founder equity calculator.
+- [Foundrs](https://foundrs.com/): Co-founder equity calculator.
 - Ad Spend Calculator: Should my startup pay to advertise?
 - HowMuchToMakeAnApp: Calculate the cost of a mobile application.
 - App vs. Website: Should you build an app or website?
@@ -446,3 +446,4 @@ If you have another additional awesome free resource, please feel free to add it
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.e cost of a mobile application.
 - Pitcherific: Pitcherific helps you create, train, and improve your pitch.
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.
+- [Picatic](https://www.picatic.com/): Free event registration platform to host events.
