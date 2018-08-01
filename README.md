@@ -7,14 +7,17 @@ If you have another additional awesome free resource, please feel free to add it
 
 
 # Website
-- HTML5 UP: Responsive HTML5 and CSS3 site templates.
-- Bootswatch: Free themes for Bootstrap.
-- Templated: A collection of 845 free CSS & HTML5 site templates.
-- WordPress.org | WordPress.com: Create your new website for free.
-- Strikingly: Free, unlimited mobile optimized websites for strikingly domains.
-- Layers: A WordPress site builder so simple. It’s free, forever.
-- Bootstrap Zero: The largest open-source, free Bootstrap template collection.
-- Landing Harbor: Promote your mobile app with a free landing page.
+- [HTML5](https://html5up.net) UP: Responsive HTML5 and CSS3 site templates.
+- [Bootswatch](https://bootswatch.com): Free themes for Bootstrap.
+- [Templated](https://templated.co/): A collection of 845 free CSS & HTML5 site templates.
+- [WordPress.org](https://wordpress.org) | WordPress.com: Create your new website for free.
+- [Strikingly](https://www.strikingly.com/): Free, unlimited mobile optimized websites for strikingly domains.
+- [Layers](https://www.layerswp.com/): A WordPress site builder so simple. It’s free, forever.
+- [Bootstrap Zero](https://www.bootstrapzero.com): The largest open-source, free Bootstrap template collection.
+- ~~Landing Harbor: Promote your mobile app with a free landing page.~~
+
+# Website for Business
+- [Crisp](https://crisp.chat/en/): Chat with website visitors. 
 
 # Branding & Logo
 - Logaster: Professional online logo maker & generator.
