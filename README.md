@@ -20,17 +20,17 @@ If you have another additional awesome free resource, please feel free to add it
 - [Crisp](https://crisp.chat/en/): Chat with website visitors. 
 
 # Branding & Logo
-- Logaster: Professional online logo maker & generator.
-- Hipster Logo Generator: It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
-- Squarespace Free Logo: You can download free low-res version for free.
-- Signature Maker: A free web based tool that creates your handwritten digital signature.
+- [Logaster](https://www.logaster.com): Professional online logo maker & generator.
+- [Hipster Logo Generator](https://www.hipsterlogogenerator.com): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
+- [Squarespace Free Logo](https://logo.squarespace.com): You can download free low-res version for free.
+- [Signature Maker](https://signature-maker.net): A free web based tool that creates your handwritten digital signature.
 
 # Invoice
-- Invoice to me: Free Invoice Generator.
-- Free Invoice Generator: Alternative free invoice generator.
-- Slimvoice: Insanely simple invoices.
-- Wave: Free & easy accounting, invoicing and more.
-- Invoice.to: Free invoice generator.
+- [Invoice to me](https://invoiceto.me): Free Invoice Generator.
+- [Free Invoice Generator](https://www.invoicesimple.com): Free invoice, estimate, client list generator.
+- [Slimvoice](https://slimvoice.co): Insanely simple invoices.
+- [Wave](https://www.waveapps.com): Free & easy accounting, invoicing and more.
+- [Invoice.to](https://invoice.to): Free invoice generator.
 
 # Legal Docs
 - Kiss: Free legal docs for startup founders and investor.
@@ -38,19 +38,19 @@ If you have another additional awesome free resource, please feel free to add it
 - Shake: Create, sign and send legally binding agreements in seconds. Free for personal use.
 
 # Idea Management
-- Experiment Board: Test your startup idea without wasting time or money.
-- Germ.io: Get from idea to execution.
-- Skitch: Your ideas become reality faster.
+- [Experiment Board](https://www.javelin.com/beta): Test your startup idea without wasting time or money.
+- [Germ.io](https://germ.io): Get from idea to execution.
+- ~~Skitch: Your ideas become reality faster.~~
 
 # Business / Project Name Generator
-- The Name App: Find an available name for your brilliant idea.
-- Naminum: Discover a perfect company name.
-- Short Domain Search: Find short, available single-word domain names.
-- Wordoid: Pick a short and catchy name for your business.
-- Hipster Business Name: Hipster business name generator.
-- Impossibility: The best domain name generator ever.
-- Lean Domain Search: Find a domain name for your website in seconds.
-- Domainr: Fast, free, domain name search, short URLs.
+- [The Name App](http://thenameapp.com): Find an available name for your brilliant idea.
+- [Naminum](http://www.naminum.com): Discover a perfect company name.
+- [Short Domain Search](http://shortdomainsearch.com/advanced.html): Find short, available single-word domain names.
+- [Impossibility](http://impossibility.org): The best domain name generator ever.
+- [Wordoid](http://wordoid.com): Pick a short and catchy name for your business.
+- [Hipster Business Name](http://www.hipsterbusiness.name/#76rfpH5): Hipster business name generator.
+- [Lean Domain Search](www.leandomainsearch.com): Find a domain name for your website in seconds.
+- [Domainr](https://domainr.com): Fast, free, domain name search, short URLs.
 
 # Writing / Blogging
 - Hemingway: Hemingway App makes your writing bold and clear.
