@@ -12,33 +12,32 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Templated**](https://templated.co/): A collection of 845 free CSS & HTML5 site templates.
 - [**WordPress.org**](https://wordpress.org/): | [**WordPress.com**](https://wordpress.com/): Create your new website for free.
 - [**Strikingly.com Domain**](https://www.strikingly.com/): Free, unlimited mobile optimized websites for strikingly domains.
-- Layers: A WordPress site builder so simple. It’s free, forever.
-- Bootstrap Zero: The largest open-source, free Bootstrap template collection.
-- Landing Harbor: Promote your mobile app with a free landing page.
+- [**Layers**](https://www.layerswp.com/): A WordPress site builder so simple. It’s free, forever.
+- [**Bootstrap Zero**](https://www.bootstrapzero.com/): The largest open-source, free Bootstrap template collection.
 
 # Branding & Logo
-- Logaster: Professional online logo maker & generator.
+- [**Logaster**](https://www.logaster.com): Professional online logo maker & generator.
 - [**Hipster Logo Generator**](https://www.hipsterlogogenerator.com/): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
 - [**Squarespace Free Logo**](https://www.squarespace.com/logo/): You can download free low-res version for free.
-- Signature Maker: A free web based tool that creates your handwritten digital signature.
+- [**Signature Maker**](https://signature-maker.net/): A free web based tool that creates your handwritten digital signature.
 
 # Invoice
 - [**Hive**](https://www.hive.im/): First free unlimited cloud service in the world.
 - [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
 - [**Free Invoice Generator**](https://www.free-invoice-generator.com/): Alternative free invoice generator.
 - [**Slimvoice**](https://slimvoice.co/): Insanely simple invoices.
-- Wave: Free & easy accounting, invoicing and more.
-- Invoice.to: Free invoice generator.
+- [**Wave**](https://www.waveapps.com): Free & easy accounting, invoicing and more.
+- [**Invoice.to**](https://invoice.to/): Free invoice generator.
 
 # Legal Docs
-- Kiss: Free legal docs for startup founders and investor.
-- Docracy: An open collection of free legal documents.
-- Shake: Create, sign and send legally binding agreements in seconds. Free for personal use.
+- [**Kiss**](https://500.co/kiss/): Free legal docs for startup founders and investor, created by 500 Startups.
+- [**Docracy**](https://www.docracy.com): An open collection of free legal documents.
+- [**Shake**](http://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
 
 # Idea Management
-- Experiment Board: Test your startup idea without wasting time or money.
-- Germ.io: Get from idea to execution.
-- Skitch: Your ideas become reality faster.
+- [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
+- [**Germ.io**](https://www.germ.io/): Get from idea to execution.
+- [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
 # Business / Project Name Generator
 - [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
