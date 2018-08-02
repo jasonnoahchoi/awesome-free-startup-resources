@@ -70,6 +70,7 @@ If you have another additional awesome free resource, please feel free to add it
 - CoSchedule: Blog post headline analyzer.
 - A5.gg: When you return your text will still be here.
 - Free Summarizer: Summarize any text online in just a few seconds.
+- [Write in Browser](data:text/html, <html contenteditable>): Write text in the browser
 
 # Find (Trending) Content (Ideas)
 - Portent: Content idea generator.
