@@ -7,26 +7,26 @@ If you have another additional awesome free resource, please feel free to add it
 
 
 # Website
-- [**HTML5 UP:**](http://html5up.net/): Responsive HTML5 and CSS3 site templates.
-- [**Bootswatch:**](http://bootswatch.com/): Free themes for Bootstrap.
-- [**Templated:**](http://templated.co/): A collection of 845 free CSS & HTML5 site templates.
-- [**WordPress.org**](https://wordpress.org/) **|** [**WordPress.com**](https://wordpress.com/)**:** Create your new website for free.
-- [**Strikingly.com Domain:**](https://www.strikingly.com/) Free, unlimited mobile optimized websites for strikingly domains.
+- [**HTML5 UP**](https://html5up.net/): Responsive HTML5 and CSS3 site templates.
+- [**Bootswatch**](https://bootswatch.com/): Free themes for Bootstrap.
+- [**Templated**](https://templated.co/): A collection of 845 free CSS & HTML5 site templates.
+- [**WordPress.org**](https://wordpress.org/): | [**WordPress.com**](https://wordpress.com/): Create your new website for free.
+- [**Strikingly.com Domain**](https://www.strikingly.com/): Free, unlimited mobile optimized websites for strikingly domains.
 - Layers: A WordPress site builder so simple. It’s free, forever.
 - Bootstrap Zero: The largest open-source, free Bootstrap template collection.
 - Landing Harbor: Promote your mobile app with a free landing page.
 
 # Branding & Logo
 - Logaster: Professional online logo maker & generator.
-- [**Hipster Logo Generator:**](http://www.hipsterlogogenerator.com/): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
-- [**Squarespace Free Logo:**](http://www.squarespace.com/logo/): You can download free low-res version for free.
+- [**Hipster Logo Generator**](https://www.hipsterlogogenerator.com/): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
+- [**Squarespace Free Logo**](https://www.squarespace.com/logo/): You can download free low-res version for free.
 - Signature Maker: A free web based tool that creates your handwritten digital signature.
 
 # Invoice
-- [**Hive:**](https://www.hive.im/)**:** First free unlimited cloud service in the world.
-- [**Invoice to me**](http://invoiceto.me/)**:** Free Invoice Generator.
-- [**Free Invoice Generator**](https://www.free-invoice-generator.com/)**:** Alternative free invoice generator.
-- [**Slimvoice:**](http://slimvoice.co/) Insanely simple invoices.
+- [**Hive**](https://www.hive.im/): First free unlimited cloud service in the world.
+- [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
+- [**Free Invoice Generator**](https://www.free-invoice-generator.com/): Alternative free invoice generator.
+- [**Slimvoice**](https://slimvoice.co/): Insanely simple invoices.
 - Wave: Free & easy accounting, invoicing and more.
 - Invoice.to: Free invoice generator.
 
@@ -41,27 +41,27 @@ If you have another additional awesome free resource, please feel free to add it
 - Skitch: Your ideas become reality faster.
 
 # Business / Project Name Generator
-- [**The Name App**](http://thenameapp.com/)**:** Find an available name for your brilliant idea.
-- [**Naminum:**](http://www.naminum.com/)**:** Discover a perfect company name.
-- [**Short Domain Search:**](http://shortdomainsearch.com/)**:** Find short, available single-word domain names.
-- [**Wordoid:**](http://wordoid.com/): Pick a short and catchy name for your business.
-- [**Hipster Business Name:**](http://www.hipsterbusiness.name/): Hipster business name generator.
-- [**Impossibility**](http://impossibility.org/)**:** The best domain name generator ever.
-- [**Lean Domain Search**](http://www.leandomainsearch.com/)**:** Find a domain name for your website in seconds.
-- [**Domainr:**](https://domainr.com/): Fast, free, domain name search, short URLs.
+- [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
+- [**Naminum**](https://www.naminum.com/): Discover a perfect company name.
+- [**Short Domain Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
+- [**Wordoid**](https://wordoid.com/): Pick a short and catchy name for your business.
+- [**Hipster Business Name**](https://www.hipsterbusiness.name/): Hipster business name generator.
+- [**Impossibility**](https://impossibility.org/): The best domain name generator ever.
+- [**Lean Domain Search**](https://www.leandomainsearch.com/): Find a domain name for your website in seconds.
+- [**Domainr**](https://domainr.com/): Fast, free, domain name search, short URLs.
 
 # Writing / Blogging
-- [**Hemingway:**](http://www.hemingwayapp.com/): Hemingway App makes your writing bold and clear.
-- [**Grammarly:**](https://free.grammarly.com/): Finds & corrects mistakes of your writing.Medium: Everyone’s stories and ideas.
-- [**Medium:**](https://medium.com/) Everyone’s stories and ideas.
-- [**ZenPen:**](http://www.zenpen.io/): The minimal writing tool of web.
-- [**Liberio:**](http://liber.io/): Simple eBook creation and publishing right from Google Drive.
-- [**Editorial Calendar:**](https://wordpress.org/plugins/editorial-calendar/): See all your posts, drag & drop to manage your blog.
-- [**Story Wars:**](https://www.storywars.net/): Writing stories together.
-- [**Headline Analyzer:**](http://www.aminstitute.com/headline/) Emotional marketing value headline analyzer.
-- [**WP Hide Post:**](https://wordpress.org/plugins/wp-hide-post/): Control the visibility of items on your blog.
-- [**Social Locker:**](https://wordpress.org/plugins/social-locker/): Ask visitors “to pay” for your content with a tweet, etc.
-- [**Egg Timer:**](http://e.ggtimer.com/): Set a time and bookmark it for repeated use.
+- [**Hemingway**](https://www.hemingwayapp.com/): Hemingway App makes your writing bold and clear.
+- [**Grammarly**](https://free.grammarly.com/): Finds & corrects mistakes of your writing.Medium: Everyone’s stories and ideas.
+- [**Medium**](https://medium.com/): Everyone’s stories and ideas.
+- [**ZenPen**](https://www.zenpen.io/): The minimal writing tool of web.
+- [**Liberio**](https://liber.io/): Simple eBook creation and publishing right from Google Drive.
+- [**Editorial Calendar**](https://wordpress.org/plugins/editorial-calendar/): See all your posts, drag & drop to manage your blog.
+- [**Story Wars**](https://www.storywars.net/): Writing stories together.
+- [**Headline Analyzer**](https://www.aminstitute.com/headline/): Emotional marketing value headline analyzer.
+- [**WP Hide Post**](https://wordpress.org/plugins/wp-hide-post/): Control the visibility of items on your blog.
+- [**Social Locker**](https://wordpress.org/plugins/social-locker/): Ask visitors “to pay” for your content with a tweet, etc.
+- [**Egg Timer**](https://e.ggtimer.com/): Set a time and bookmark it for repeated use.
 - BlankPage: Writing made simple.
 - Wattpad: The world’s largest community for readers and writers.
 - Known: A single site for the content you create.
@@ -72,45 +72,54 @@ If you have another additional awesome free resource, please feel free to add it
 - Free Summarizer: Summarize any text online in just a few seconds.
 
 # Find (Trending) Content (Ideas)
-- [**Portent:**](http://www.portent.com/tools/title-maker) Content idea generator.
-- [**Google Trends:**](http://www.google.com/trends/hottrends/visualize?pn=p1): A new way of displaying trending searches.
-- [**Buzzsumo:**](http://buzzsumo.com/) Analyze what content performs best for any topic or competitor.
-- [**Hubspot Blog Topic Generator:**](http://www.hubspot.com/blog-topic-generator) Custom blog ideas.
-- [**Swayy:**](http://www.swayy.co/) Discover the most engaging content. Free for 1 dashboard user.
-- _Others:_ [**Google+ What’s Hot**](https://plus.google.com/explore/_) | [**Twitter Trendin**](https://twitter.com/)**g |** [**Quora**](http://www.quora.com/Content-Strategy) | [**Reddit**](http://www.reddit.com/)
+- [**Portent**](https://www.portent.com/tools/title-maker): Content idea generator.
+- [**Google Trends**](https://www.google.com/trends/hottrends/visualize?pn=p1): A new way of displaying trending searches.
+- [**Buzzsumo**](https://buzzsumo.com/): Analyze what content performs best for any topic or competitor.
+- [**Hubspot Blog Topic Generator**](https://www.hubspot.com/blog-topic-generator): Custom blog ideas.
+- [**Swayy**](https://www.swayy.co/): Discover the most engaging content. Free for 1 dashboard user.
+- _Others:_
+  - [**Google+ What’s Hot**](https://plus.google.com/explore)
+  - [**Twitter Trending**](https://twitter.com/)
+  - [**Quora**](https://www.quora.com/Content-Strategy)
+  - [**Reddit**](https://www.reddit.com/)
 
 # SEO + Website Analyzer
-- [**Open Site Explorer:**](https://moz.com/researchtools/ose/) A comprehensive tool for link analysis.
-- [**Ahrefs:**](https://ahrefs.com/) Site explorer & backlink checker.
-- [**Quick Sprout:**](http://www.quicksprout.com/) Complete analysis of your website.
-- [**WordPress SEO by Yoast:**](https://wordpress.org/plugins/wordpress-seo/) Have a fully optimized WordPress site.
-- [**SEO Site Checkup:**](http://seositecheckup.com/) Check your website’s SEO problems for free.
-- [**Hubspot Marketing Grader:**](https://marketing.grader.com/) Grade your marketing.
-- [**SimilarWeb:**](http://www.similarweb.com/) Analyze website statistics for any domain.
-- [**Alexa Ranking:**](http://www.alexa.com/) Analytical insights to analyze any site’s rank.
-- [**SERPs Rank Checker:**](https://serps.com/tools/rank_checker) Free keyword rank & SERP checker.
-- [**OpenLinkProfiler:**](http://openlinkprofiler.org/) The freshest backlinks, for free.
-- [**Keywordtool.io:**](http://keywordtool.io/) Free alternative to Google Keyword Planner.Google: [**Analytics**](http://www.google.com/analytics/) | [**Keyword Planner**](http://adwords.google.com/keywordplanner) | [**Webmaster Tools**](https://www.google.com/webmasters/tools/home?hl=en) | [**Trends**](http://www.google.com/trends/)
-- [**Nibbler:**](http://nibbler.silktide.com/) Test any website.
-- [**Browseo:**](http://www.browseo.net/) How search engines see your website.Broken Links: Find broken links, redirects & more.
-- [**Broken Links:**](http://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/) Find broken links, redirects & more.
-- [**Copyscape:**](http://www.copyscape.com/): Search for copies of your page on the web.
-- [**Woorank:**](http://www.woorank.com/) Website review and SEO tool.
-- [**Google Pagespeed Insights:**](https://developers.google.com/speed/pagespeed/insights/) Check the performance of your site.
-- [**Pingdom Website Speed Test:**](http://tools.pingdom.com/fpt/) Test & the load time of a site.
-- [**GTMetrics:**](http://gtmetrix.com/) Analyze your page’s speed performance.
-- [**Moz Local:**](https://moz.com/local/search) Check your local listings on Google, Bing, and others.XML Sitemaps: Sitemap generator that creates XML & HTML variants.
-- [**XML Sitemaps:**](https://www.xml-sitemaps.com/) Sitemap generator that creates XML & HTML variants.
-- [**Shopify E-commerce Report:**](https://ecommerce.shopify.com/grader) Get your free Ecommerce report.
-- [**W3C validator**](http://validator.w3.org/)**:** Easy-to-use markup validation service.
+- [**Open Site Explorer**](https://moz.com/researchtools/ose/): A comprehensive tool for link analysis.
+- [**Ahrefs**](https://ahrefs.com/): Site explorer & backlink checker.
+- [**Quick Sprout**](https://www.quicksprout.com/): Complete analysis of your website.
+- [**WordPress SEO by Yoast**](https://wordpress.org/plugins/wordpress-seo/): Have a fully optimized WordPress site.
+- [**SEO Site Checkup**](https://seositecheckup.com/): Check your website’s SEO problems for free.
+- [**Hubspot Marketing Grader**](https://marketing.grader.com/): Grade your marketing.
+- [**SimilarWeb**](https://www.similarweb.com/): Analyze website statistics for any domain.
+- [**Alexa Ranking**](https://www.alexa.com/): Analytical insights to analyze any site’s rank.
+- [**SERPs Rank Checker**](https://serps.com/tools/rank_checker): Free keyword rank & SERP checker.
+- [**OpenLinkProfiler**](https://openlinkprofiler.org/): The freshest backlinks, for free.
+- [**Keywordtool.io**](https://keywordtool.io/): Free alternative to Google Keyword Planner.
+- **Google**
+  - [**Analytics**](https://www.google.com/analytics/)
+  - [**Keyword Planner**](https://adwords.google.com/keywordplanner)
+  - [**Webmaster Tools**](https://www.google.com/webmasters/tools/home?hl=en)
+  - [**Trends**](https://www.google.com/trends/)
+- [**Nibbler**](https://nibbler.silktide.com/): Test any website.
+- [**Browseo**](https://www.browseo.net/): How search engines see your website.Broken Links: Find broken links, redirects & more.
+- [**Broken Links**](https://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/): Find broken links, redirects & more.
+- [**Copyscape**](https://www.copyscape.com/): Search for copies of your page on the web.
+- [**Woorank**](https://www.woorank.com/): Website review and SEO tool.
+- [**Google Pagespeed Insights**](https://developers.google.com/speed/pagespeed/insights/): Check the performance of your site.
+- [**Pingdom Website Speed Test**](https://tools.pingdom.com/fpt/): Test & the load time of a site.
+- [**GTMetrics**](https://gtmetrix.com/): Analyze your page’s speed performance.
+- [**Moz Local**](https://moz.com/local/search): Check your local listings on Google, Bing, and others.XML Sitemaps: Sitemap generator that creates XML & HTML variants.
+- [**XML Sitemaps**](https://www.xml-sitemaps.com/): Sitemap generator that creates XML & HTML variants.
+- [**Shopify E-commerce Report**](https://ecommerce.shopify.com/grader): Get your free Ecommerce report.
+- [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
 
 # Image Optimizers
-- [**TinyJPG**](https://tinyjpg.com/) **|** [**TinyPNG**](https://tinypng.com/) **:** Compress images.
-- [**Compressor.io:**](https://compressor.io/) Optimize and compress your images online.
-- [**Kraken:**](https://kraken.io/web-interface) Optimize your images & accelerate your websites.
-- [**ImageOptimizer:**](http://www.imageoptimizer.net/Pages/Home.aspx) Resize, compress and optimize your image files.
-- [**ImageOptim:**](https://imageoptim.com/) Makes images take up less disk space & load faster.
-- [**Smush.it:**](https://wordpress.org/plugins/wp-smushit/) Image optimizer WordPress plugin.
+- [**TinyJPG**](https://tinyjpg.com/): | [**TinyPNG**](https://tinypng.com/):  Compress images.
+- [**Compressor.io**](https://compressor.io/): Optimize and compress your images online.
+- [**Kraken**](https://kraken.io/web-interface): Optimize your images & accelerate your websites.
+- [**ImageOptimizer**](https://www.imageoptimizer.net/Pages/Home.aspx): Resize, compress and optimize your image files.
+- [**ImageOptim**](https://imageoptim.com/): Makes images take up less disk space & load faster.
+- [**Smush.it**](https://wordpress.org/plugins/wp-smushit/): Image optimizer WordPress plugin.
 - Dunnnk: Beautiful mockups.
 - InstaMockup: Create beautiful screenshots of your app or website.
 
@@ -256,7 +265,8 @@ If you have another additional awesome free resource, please feel free to add it
 - Pexels: Best free photos in one place.All The Free Stock: Free stock images, icons, and videos.
 - Unsplash: Free (do whatever you want) high-resolution photos.
 - Splashbase: Search & discover free, hi res photos & videos.
-- Startup Stock Photos: Go. Make something.Jay Mantri: Free pics. do anything (CC0). Make magic.
+- Startup Stock Photos: Go. Make something.
+- Jay Mantri: Free pics. do anything (CC0). Make magic.
 - Moveast: This is a journey of a Portuguese guy moving east.
 - Travel Coffee Book: Sharing beautiful travel moments.
 - Designers Pics: Free photographs for your personal & commercial use.
@@ -290,10 +300,19 @@ If you have another additional awesome free resource, please feel free to add it
 - Lock & Stock Photos: Free stock photos for you.
 - Raumrot: Free high-resolution picture.
 - Bucketlistly: A free creative common collection of travel photos.
-- Some more websites: Free Digital Photos | Morguefile | Public Domain Pictures | Free Stockvault | ImageFree | Rgbstock | Dreamstime | FreeImages | FreeRangeImages |
 - FreePhotosBankStockSnap: Beautiful free stock photos.
 - Unfinished Business: Free stock photos featuring Vince Vaughn.
 - Free Nature Stock: Royalty-free Nature Stock Photos. Use them however you want.
+- Others:
+  - Free Digital Photos
+  - Morguefile
+  - Public Domain Pictures
+  - Free Stockvault
+  - ImageFree
+  - Rgbstock
+  - Dreamstime
+  - FreeImages
+  - FreeRangeImages
 
 # Typography
 - TypeGenius: Find the perfect font combo for your next project.
@@ -435,17 +454,17 @@ If you have another additional awesome free resource, please feel free to add it
 - Hackdesign: Receive a design lesson in your inbox each week.
 
 # Newsletters that Don't Suck
-- [Email1K](https://email1k.com/): A free 30 day course to double your email list.
-- [Design for Hackers](https://designforhackers.com/): 12 weeks of design learning, right in your inbox.
-- [Startup Digest](https://www.startupdigest.com/): Personalized newsletter for all things startup in your area.
-- [Mattermark Daily](https://mattermark.com/category/mattermark-daily/): Curated newsletter from investors & founders.
+- [**Email1K**](https://email1k.com/): A free 30 day course to double your email list.
+- [**Design for Hackers**](https://designforhackers.com/): 12 weeks of design learning, right in your inbox.
+- [**Startup Digest**](https://www.startupdigest.com/): Personalized newsletter for all things startup in your area.
+- [**Mattermark Daily**](https://mattermark.com/category/mattermark-daily/): Curated newsletter from investors & founders.
 - ChargeWhatYou’reWorth: Free course on charging what you’re worth.
-- [Product Psychology](https://productpsychology.com/): Lessons on User Behavior.
-- [UX Newsletter](https://newsletter.uxdesign.cc/): Tales of researching, designing, and building.
-- [UX Design Weekly](https://uxdesignweekly.com/): Best user experience design links every week.
+- [**Product Psychology**](https://productpsychology.com/): Lessons on User Behavior.
+- [**UX Newsletter**](https://newsletter.uxdesign.cc/): Tales of researching, designing, and building.
+- [**UX Design Weekly**](https://uxdesignweekly.com/): Best user experience design links every week.
 
 # Misc Useful
-- [Foundrs](https://foundrs.com/): Co-founder equity calculator.
+- [**Foundrs**](https://foundrs.com/): Co-founder equity calculator.
 - Ad Spend Calculator: Should my startup pay to advertise?
 - HowMuchToMakeAnApp: Calculate the cost of a mobile application.
 - App vs. Website: Should you build an app or website?
@@ -453,4 +472,4 @@ If you have another additional awesome free resource, please feel free to add it
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.e cost of a mobile application.
 - Pitcherific: Pitcherific helps you create, train, and improve your pitch.
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.
-- [Picatic](https://www.picatic.com/): Free event registration platform to host events.
+- [**Picatic**](https://www.picatic.com/): Free event registration platform to host events.
