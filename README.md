@@ -111,15 +111,15 @@ If you have another additional awesome free resource, please feel free to add it
 - InstaMockup: Create beautiful screenshots of your app or website.
 
 # Image Editors
-- Canva: Amazingly simple graphic design for bloggers.
-- Pixlr: Pixlr Editor is a robust browser photo editor.
-- Skitch: Get your point across with fewer words.
-- Easel.ly: Empowers anyone to create & share powerful visuals.
-- Social Image Resizer Tool: Create optimized images for social media.
-- Placeit: Free product mockups & templates.
-- Recite: Turn a quote into a visual masterpiece.
-- Meme Generator: The first online meme generator.
-- Pablo: Design engaging images for your social media posts in under 30 seconds.
+- [Canva](https://www.canva.com): Amazingly simple graphic design for bloggers.
+- [Pixlr](https://pixlr.com): Pixlr Editor is a robust browser photo editor.
+- ~~Skitch: Get your point across with fewer words.~~
+- [Easel.ly](https://www.easel.ly): Empowers anyone to create & share powerful visuals. Registration req
+- [Social Image Resizer Tool](https://www.internetmarketingninjas.com): Create optimized images for social media.
+- [Placeit](https://placeit.net): Free product mockups & templates.
+- [Recite](http://recite.com): Turn a quote into a visual masterpiece.
+- [Meme Generator](https://imgflip.com/memegenerator): The first online meme generator.
+- [Pablo](https://pablo.buffer.com): Design engaging images for your social media posts in under 30 seconds.
 
 # Email Management
 - Contact form 7: Famous WordPress plugin to collect email addresses.
