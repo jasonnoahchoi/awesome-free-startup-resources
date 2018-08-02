@@ -7,27 +7,30 @@ If you have another additional awesome free resource, please feel free to add it
 
 
 # Website
-- HTML5 UP: Responsive HTML5 and CSS3 site templates.
-- Bootswatch: Free themes for Bootstrap.
-- Templated: A collection of 845 free CSS & HTML5 site templates.
-- WordPress.org | WordPress.com: Create your new website for free.
-- Strikingly: Free, unlimited mobile optimized websites for strikingly domains.
-- Layers: A WordPress site builder so simple. It’s free, forever.
-- Bootstrap Zero: The largest open-source, free Bootstrap template collection.
-- Landing Harbor: Promote your mobile app with a free landing page.
+- [HTML5](https://html5up.net) UP: Responsive HTML5 and CSS3 site templates.
+- [Bootswatch](https://bootswatch.com): Free themes for Bootstrap.
+- [Templated](https://templated.co/): A collection of 845 free CSS & HTML5 site templates.
+- [WordPress.org](https://wordpress.org) | WordPress.com: Create your new website for free.
+- [Strikingly](https://www.strikingly.com/): Free, unlimited mobile optimized websites for strikingly domains.
+- [Layers](https://www.layerswp.com/): A WordPress site builder so simple. It’s free, forever.
+- [Bootstrap Zero](https://www.bootstrapzero.com): The largest open-source, free Bootstrap template collection.
+- ~~Landing Harbor: Promote your mobile app with a free landing page.~~
+
+# Website for Business
+- [Crisp](https://crisp.chat/en/): Chat with website visitors. 
 
 # Branding & Logo
-- Logaster: Professional online logo maker & generator.
-- Hipster Logo Generator: It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
-- Squarespace Free Logo: You can download free low-res version for free.
-- Signature Maker: A free web based tool that creates your handwritten digital signature.
+- [Logaster](https://www.logaster.com): Professional online logo maker & generator.
+- [Hipster Logo Generator](https://www.hipsterlogogenerator.com): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
+- [Squarespace Free Logo](https://logo.squarespace.com): You can download free low-res version for free.
+- [Signature Maker](https://signature-maker.net): A free web based tool that creates your handwritten digital signature.
 
 # Invoice
-- Invoice to me: Free Invoice Generator.
-- Free Invoice Generator: Alternative free invoice generator.
-- Slimvoice: Insanely simple invoices.
-- Wave: Free & easy accounting, invoicing and more.
-- Invoice.to: Free invoice generator.
+- [Invoice to me](https://invoiceto.me): Free Invoice Generator.
+- [Free Invoice Generator](https://www.invoicesimple.com): Free invoice, estimate, client list generator.
+- [Slimvoice](https://slimvoice.co): Insanely simple invoices.
+- [Wave](https://www.waveapps.com): Free & easy accounting, invoicing and more.
+- [Invoice.to](https://invoice.to): Free invoice generator.
 
 # Legal Docs
 - Kiss: Free legal docs for startup founders and investor.
@@ -35,19 +38,19 @@ If you have another additional awesome free resource, please feel free to add it
 - Shake: Create, sign and send legally binding agreements in seconds. Free for personal use.
 
 # Idea Management
-- Experiment Board: Test your startup idea without wasting time or money.
-- Germ.io: Get from idea to execution.
-- Skitch: Your ideas become reality faster.
+- [Experiment Board](https://www.javelin.com/beta): Test your startup idea without wasting time or money.
+- [Germ.io](https://germ.io): Get from idea to execution.
+- ~~Skitch: Your ideas become reality faster.~~
 
 # Business / Project Name Generator
-- The Name App: Find an available name for your brilliant idea.
-- Naminum: Discover a perfect company name.
-- Short Domain Search: Find short, available single-word domain names.
-- Wordoid: Pick a short and catchy name for your business.
-- Hipster Business Name: Hipster business name generator.
-- Impossibility: The best domain name generator ever.
-- Lean Domain Search: Find a domain name for your website in seconds.
-- Domainr: Fast, free, domain name search, short URLs.
+- [The Name App](http://thenameapp.com): Find an available name for your brilliant idea.
+- [Naminum](http://www.naminum.com): Discover a perfect company name.
+- [Short Domain Search](http://shortdomainsearch.com/advanced.html): Find short, available single-word domain names.
+- [Impossibility](http://impossibility.org): The best domain name generator ever.
+- [Wordoid](http://wordoid.com): Pick a short and catchy name for your business.
+- [Hipster Business Name](http://www.hipsterbusiness.name/#76rfpH5): Hipster business name generator.
+- [Lean Domain Search](www.leandomainsearch.com): Find a domain name for your website in seconds.
+- [Domainr](https://domainr.com): Fast, free, domain name search, short URLs.
 
 # Writing / Blogging
 - Hemingway: Hemingway App makes your writing bold and clear.
@@ -67,6 +70,7 @@ If you have another additional awesome free resource, please feel free to add it
 - CoSchedule: Blog post headline analyzer.
 - A5.gg: When you return your text will still be here.
 - Free Summarizer: Summarize any text online in just a few seconds.
+- [Write in Browser](data:text/html, <html contenteditable>): Write text in the browser
 
 # Find (Trending) Content (Ideas)
 - Portent: Content idea generator.
@@ -108,15 +112,15 @@ If you have another additional awesome free resource, please feel free to add it
 - InstaMockup: Create beautiful screenshots of your app or website.
 
 # Image Editors
-- Canva: Amazingly simple graphic design for bloggers.
-- Pixlr: Pixlr Editor is a robust browser photo editor.
-- Skitch: Get your point across with fewer words.
-- Easel.ly: Empowers anyone to create & share powerful visuals.
-- Social Image Resizer Tool: Create optimized images for social media.
-- Placeit: Free product mockups & templates.
-- Recite: Turn a quote into a visual masterpiece.
-- Meme Generator: The first online meme generator.
-- Pablo: Design engaging images for your social media posts in under 30 seconds.
+- [Canva](https://www.canva.com): Amazingly simple graphic design for bloggers.
+- [Pixlr](https://pixlr.com): Pixlr Editor is a robust browser photo editor.
+- ~~Skitch: Get your point across with fewer words.~~
+- [Easel.ly](https://www.easel.ly): Empowers anyone to create & share powerful visuals. Registration req
+- [Social Image Resizer Tool](https://www.internetmarketingninjas.com): Create optimized images for social media.
+- [Placeit](https://placeit.net): Free product mockups & templates.
+- [Recite](http://recite.com): Turn a quote into a visual masterpiece.
+- [Meme Generator](https://imgflip.com/memegenerator): The first online meme generator.
+- [Pablo](https://pablo.buffer.com): Design engaging images for your social media posts in under 30 seconds.
 
 # Email Management
 - Contact form 7: Famous WordPress plugin to collect email addresses.
