@@ -1,5 +1,5 @@
 # Free Startup Resources
-Inspired by [/u/fluffhead1](https://www.reddit.com/user/fluffhead1): on Reddit, who found the huge list from [TNW](https://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/). Many thanks for the start of such an awesome list.
+Inspired by [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit, who found the huge list from [TNW](https://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/). Many thanks for the start of such an awesome list.
 
 A curated open list of **free** resources to help you jump start your startup today. Links coming soon.
 
@@ -10,7 +10,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**HTML5 UP**](https://html5up.net/): Responsive HTML5 and CSS3 site templates.
 - [**Bootswatch**](https://bootswatch.com/): Free themes for Bootstrap.
 - [**Templated**](https://templated.co/): A collection of 845 free CSS & HTML5 site templates.
-- [**WordPress.org**](https://wordpress.org/): **|** [**WordPress.com**](https://wordpress.com/): Create your new website for free.
+- [**WordPress.org**](https://wordpress.org/): | [**WordPress.com**](https://wordpress.com/): Create your new website for free.
 - [**Strikingly.com Domain**](https://www.strikingly.com/): Free, unlimited mobile optimized websites for strikingly domains.
 - Layers: A WordPress site builder so simple. It’s free, forever.
 - Bootstrap Zero: The largest open-source, free Bootstrap template collection.
@@ -263,9 +263,10 @@ If you have another additional awesome free resource, please feel free to add it
 # Stock Photography
 - Stock Up: Best free stock photo websites in one place.
 - Pexels: Best free photos in one place.All The Free Stock: Free stock images, icons, and videos.
-- Unsplash: Free (do whatever you want): high-resolution photos.
+- Unsplash: Free (do whatever you want) high-resolution photos.
 - Splashbase: Search & discover free, hi res photos & videos.
-- Startup Stock Photos: Go. Make something.Jay Mantri: Free pics. do anything (CC0). Make magic.
+- Startup Stock Photos: Go. Make something.
+- Jay Mantri: Free pics. do anything (CC0). Make magic.
 - Moveast: This is a journey of a Portuguese guy moving east.
 - Travel Coffee Book: Sharing beautiful travel moments.
 - Designers Pics: Free photographs for your personal & commercial use.
@@ -299,10 +300,19 @@ If you have another additional awesome free resource, please feel free to add it
 - Lock & Stock Photos: Free stock photos for you.
 - Raumrot: Free high-resolution picture.
 - Bucketlistly: A free creative common collection of travel photos.
-- Some more websites: Free Digital Photos | Morguefile | Public Domain Pictures | Free Stockvault | ImageFree | Rgbstock | Dreamstime | FreeImages | FreeRangeImages |
 - FreePhotosBankStockSnap: Beautiful free stock photos.
 - Unfinished Business: Free stock photos featuring Vince Vaughn.
 - Free Nature Stock: Royalty-free Nature Stock Photos. Use them however you want.
+- Others:
+  - Free Digital Photos
+  - Morguefile
+  - Public Domain Pictures
+  - Free Stockvault
+  - ImageFree
+  - Rgbstock
+  - Dreamstime
+  - FreeImages
+  - FreeRangeImages
 
 # Typography
 - TypeGenius: Find the perfect font combo for your next project.
