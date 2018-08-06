@@ -32,7 +32,7 @@ If you have another additional awesome free resource, please feel free to add it
 # Legal Docs
 - [**Kiss**](https://500.co/kiss/): Free legal docs for startup founders and investor, created by 500 Startups.
 - [**Docracy**](https://www.docracy.com): An open collection of free legal documents.
-- [**Shake**](http://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
+- [**Shake**](https://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
 
 # Idea Management
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
@@ -123,24 +123,24 @@ If you have another additional awesome free resource, please feel free to add it
 - InstaMockup: Create beautiful screenshots of your app or website.
 
 # Image Editors
-- Canva: Amazingly simple graphic design for bloggers.
-- Pixlr: Pixlr Editor is a robust browser photo editor.
-- Skitch: Get your point across with fewer words.
-- Easel.ly: Empowers anyone to create & share powerful visuals.
-- Social Image Resizer Tool: Create optimized images for social media.
-- Placeit: Free product mockups & templates.
-- Recite: Turn a quote into a visual masterpiece.
-- Meme Generator: The first online meme generator.
+- [**Canva:**](https://www.canva.com/) Amazingly simple graphic design for bloggers.
+- [**Pixlr:**](https://apps.pixlr.com/editor/) Pixlr Editor is a robust browser photo editor.
+- [**Skitch:**](https://evernote.com/skitch/) Get your point across with fewer words.
+- [**Easel.ly:**](https://www.easel.ly/) Empowers anyone to create & share powerful visuals.
+- [**Social Image Resizer Tool:**](https://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images/) Create optimized images for social media.
+- [**Placeit:**](https://placeit.net/) Free product mockups & templates.
+- [**Recite:**](httsp://www.recitethis.com/) Turn a quote into a visual masterpiece.
+- [**Meme Generator:**](https://memegenerator.net/) The first online meme generator.
 - Pablo: Design engaging images for your social media posts in under 30 seconds.
 
 # Email Management
-- Contact form 7: Famous WordPress plugin to collect email addresses.
-- Mailchimp: Send 12,000 emails to 2,000 subscribers for free.
-- ManyContactsBar: Free contact form sits on top of your website.
-- Hello Bar: Get more email subscribers.
-- Sumome List Builder: Collect email addresses with light box popover.
-- Scroll Triggered Box: Boost your conversion rates — WordPress only.
-- Sumome Scroll Box: Capture more email addresses, politely.
+- [**Contact form 7:**](https://wordpress.org/plugins/contact-form-7/) Famous WordPress plugin to collect email addresses.
+- [**Mailchimp:**](https://mailchimp.com/) Send 12,000 emails to 2,000 subscribers for free.
+- [**ManyContactsBar:**](https://www.manycontacts.com/) Free contact form sits on top of your website.
+- [**Hello Bar:**](https://hellobar.com/) Get more email subscribers.
+- [**Sumome List Builder:**](https://sumome.com/app/list-builder) Collect email addresses with light box popover.
+- [**Scroll Triggered Box:**](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/) Boost your conversion rates — WordPress only.
+- [**Sumome Scroll Box:**](https://sumome.com/app/scroll-box) Capture more email addresses, politely.
 - Mandrill: The fastest way to deliver email. Free 12K emails/month.
 - Mailgun: The Email Service For Developers. Free 10K emails/month.
 - Sendgrid: Delivers your transactional and marketing email. Free 12K emails/month.
@@ -164,23 +164,25 @@ If you have another additional awesome free resource, please feel free to add it
 - FirstSiteGuide: The beginner’s guide to successful blogging.
 
 # Social Media + Community Management
-- WriteRack: The best way to tweetstorm.
-- Spruce: Make Twitter ready images in seconds.
-- Click To Tweet: Get more shares on your content.
-- MyTweetLinks: Increases Twitter traffic.
-- Latergram: Easily plan & schedule your Instagram posts.WordPress Pin it Button for Images: Add a “Pin It” button.
-- SharedCount: Track URL shares, likes, tweets, and more.
+- [**WriteRack:**](https://writerack.com/) The best way to tweetstorm.
+- [**Spruce:**](https://www.tryspruce.com/) Make Twitter ready images in seconds.
+- [**Click To Tweet:**](https://coschedule.com/click-to-tweet) Get more shares on your content.
+- [**MyTweetLinks:**](https://mytweetlinks.com/) Increases Twitter traffic.
+- [**Latergram**](https://www.latergram.me/)**:** Easily plan & schedule your Instagram posts.WordPress Pin it Button for Images: Add a “Pin It” button.
+- [**SharedCount:**](https://www.sharedcount.com/) Track URL shares, likes, tweets, and more.
 - How Many Shares Count: how many shares a URL has across most social networks, all in one place.
-- Justunfollow: Follow / unfollow people on Twitter & Instagram.
-- SocialRank: Identify, organize, and manage your followers on Twitter.
-- Klout: Social media influence score on browser extension.
-- Ritetag: Instant hashtag analysis.Social Analytics: Interactions for a URL on most social platforms.
-- Buffer Free Plan: Schedule posts to Twitter, Facebook, LinkedIn, Google+.
-- Bitly: Create, share, and track shortened links.Filament: A free beautiful and customizable sharing bar.
-- Addthis: Get more shares, follows and conversions.
-- Sumome Share: Auto-optimizes your share buttons for max traffic.
-- Digg Digg: Your all in one share buttons plugin.
-- Disqus: Build a community of active readers & commenters.
+- [**Justunfollow:**](https://www.justunfollow.com/) Follow / unfollow people on Twitter & Instagram.
+- [**SocialRank:**](https://www.socialrank.com/) Identify, organize, and manage your followers on Twitter.
+- [**Klout:**](https://blog.klout.com/2014/06/klout-browser-extensions/) Social media influence score on browser extension.
+- [**Ritetag:**](https://ritetag.com/hashtag-academy/ritetag-browser-extensions-scheduling-productivity) Instant hashtag analysis.
+- [**Social Analytics:**](https://chrome.google.com/webstore/detail/social-analytics/pgckigmaefoaemjpijdepakcghjkggmg/related) Interactions for a URL on most social platforms.
+- [**Riffle:**](https://crowdriff.com/riffle/) Full profile and info on any Twitter user.
+- [**Buffer Free Plan:**](https://bufferapp.com/) Schedule posts to Twitter, Facebook, LinkedIn, Google+.
+- [**Bitly:**](https://bitly.com/) Create, share, and track shortened links.Filament: A free beautiful and customizable sharing bar.
+- [**Addthis:**](https://www.addthis.com/) Get more shares, follows and conversions.
+- [**Sumome Share:**](https://sumome.com/app/share) Auto-optimizes your share buttons for max traffic.
+- [**Digg Digg:**](https://wordpress.org/plugins/digg-digg/installation/) Your all in one share buttons plugin.
+- [**Disqus:**](https://disqus.com/) Build a community of active readers & commenters.
 - App Review Monitor: App reviews delivered to Slack and your inbox.
 - Presskit Generator: Generate a Press Kit for your iOS App for free.
 - Free Survey Creator: Create a survey. Get user feedback for free.
@@ -193,151 +195,155 @@ If you have another additional awesome free resource, please feel free to add it
 - Helprace: Customer service tool. Free for up to 3 agents for small support teams.
 
 # A/B Tests & Growth Hacking
-- Petit Hacks: Acquisition, retention, & revenue hacks used by companies.
-- Optimizely: One optimization platform for websites and mobile apps.
-- Hello Bar: Tool for A/B testing different CTAs & power words.
-- GrowthHackers: Unlocking growth. Together.
+- [**Petit Hacks:**](https://petithacks.com/) Acquisition, retention, & revenue hacks used by companies.
+- [**Optimizely:**](https://www.optimizely.com/) One optimization platform for websites and mobile apps.
+- [**Hello Bar:**](https://write%20better%20content%20and%20have%20a%20fully%20optimized%20wordpress%20site/) Tool for A/B testing different CTAs & power words.
+- [**GrowthHackers:**](https://growthhackers.com/) Unlocking growth. Together.
 
 # Design Resources
-- Freebbble: High-quality design freebies from Dribbble.
-- Dribbble: Dribbble search results for “freebie”. An absolute freebie treasure.
-- Graphic Burger: Tasty design resources made with care for each pixel.
-- Pixel Buddha: Free and premium resources for professional community.
-- Premium Pixels: Free Stuff for Creative Folk.
-- Fribbble: Free PSD resources by Dribbblers curated by Gilbert Pellegrom.
-- Freebiesbug: Latest free PSDs & other resources for designers.
-- 365 Psd: Download a free psd every day.
-- Dbf: Dribbble & Behance best design freebies.
-- Marvel: Free resources from designers we love.
-- UI Space: High quality hand-crafted Freebies for awesome people.
-- Free Section of Pixeden: Free design resources.
-- Free Section of Creative Market: Freebies coming out every Monday.
-- Teehan+Lax: iOS 8 GUI PSD (iPhone 6).Teehan+Lax: iPad GUI PSD.
-- Freepik: iFree graphic resources for everyone.
-- Tech&All: PSD, Tech News, and other resources for free.
-- Tethr: The most beautiful IOS design KIT ever.
+- [**Freebbble**](https://freebbble.com/)**:** High-quality design freebies from Dribbble.
+- [**Dribbble:**](https://dribbble.com/search?q=freebie) Dribbble search results for “freebie”. An absolute freebie treasure.
+- [**Graphic Burger:**](https://graphicburger.com/) Tasty design resources made with care for each pixel.
+- [**Pixel Buddha:**](https://pixelbuddha.net/) Free and premium resources for professional community.
+- [**Premium Pixels:**](https://www.premiumpixels.com/) Free Stuff for Creative Folk.
+- [**Fribbble:**](https://fribbble.com/) Free PSD resources by Dribbblers curated by Gilbert Pellegrom.
+- [**Freebiesbug:**](https://freebiesbug.com/) Latest free PSDs & other resources for designers.
+- [**365 Psd:**](https://365psd.com/) Download a free psd every day.
+- [**Dbf:**](https://dbfreebies.co/) Dribbble & Behance best design freebies.
+- [**Marvel:**](https://marvelapp.com/resources/) Free resources from designers we love.
+- [**UI Space:**](https://uispace.net/) High quality hand-crafted Freebies for awesome people.
+- [**Free Section of Pixeden:**](https://www.pixeden.com/free-design-web-resources) Free design resources.
+- [**Free Section of Creative Market:**](https://creativemarket.com/free-goods) Freebies coming out every Monday.
+- [**Teehan+Lax:**](https://www.teehanlax.com/tools/iphone/) iOS 8 GUI PSD (iPhone 6).Teehan+Lax: iPad GUI PSD.
+- [**Freepik:**](https://www.freepik.com/) iFree graphic resources for everyone.
+- [**Tech&All:**](https://www.techandall.com/) PSD, Tech News, and other resources for free.
+- [**Tethr:**](https://www.invisionapp.com/tethr) The most beautiful IOS design KIT ever.
 - Web3Canvas: PSD Freebies, HTML Snippets, Inspirations & Tutorials.
 - SketchAppResources: Free graphical resources.
 - Placeit Freebies: Freebies delivered right to your Dropbox.
 
 # Color Pickers
-- Material Palette: Generate & export your Material Design color palette.
-- New Flat UI Color Picker: Best flat colors for UI design.
-- Flat UI Colors: Beautiful flat colors.
-- Coolors: Super fast color schemes generator for cool designers.
-- Skala Color: An extraordinary color picker for designers and developers.
-- Material UI Colors: Material ui color palette for Android, Web & iOS.
-- Colorful Gradients: Gradients automatically created by a computer.
-- Adaptive Backgrounds: Extract dominant colors from images.
-- Brand Colors: Colors used by famous brands.
-- Paletton: The color scheme designer.0 to 255: A simple tool that helps web designers find variations of any color.
-- Colour Lovers: Create & share colors, palettes, and patterns.
-- Adobe Color CC: Color combinations from the Kuler community.
-- Bootflat: Perfect colors for flat designs.
-- Hex Colorrrs: Hex to RGB converter.
-- Get UI Colors: Get awesome UI colors.
-- Coleure: Smart color picker.
-- Colllor: Color palette generator.
-- Palette for Chrome: Creates a color palette from any image.
+- [**Material Palette:**](https://www.materialpalette.com/) Generate & export your Material Design color palette.
+- [**New Flat UI Color Picker:**](https://www.flatuicolorpicker.com/) Best flat colors for UI design.
+- [**Flat UI Colors:**](https://flatuicolors.com/) Beautiful flat colors.
+- [**Coolors:**](https://coolors.co/) Super fast color schemes generator for cool designers.
+- [**Skala Color:**](https://bjango.com/mac/skalacolor/) An extraordinary color picker for designers and developers.
+- [**Material UI Colors:**](https://www.materialui.co/colors) Material ui color palette for Android, Web & iOS.
+- [**Colorful Gradients:**](https://colorfulgradients.tumblr.com/) Gradients automatically created by a computer.
+- [**Adaptive Backgrounds:**](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) Extract dominant colors from images.
+- [**Brand Colors:**](https://brandcolors.net/) Colors used by famous brands.
+- [**Paletton:**](https://paletton.com/) The color scheme designer.0 to 255: A simple tool that helps web designers find variations of any color.
+- [**Colour Lovers:**](https://www.colourlovers.com/) Create & share colors, palettes, and patterns.
+- [**Adobe Color CC:**](https://color.adobe.com/create/color-wheel/) Color combinations from the Kuler community.
+- [**Bootflat:**](https://bootflat.github.io/color-picker.html) Perfect colors for flat designs.
+- [**Hex Colorrrs:**](https://hex.colorrrs.com/) Hex to RGB converter.
+- [**Get UI Colors:**](https://getuicolors.com/) Get awesome UI colors.
+- [**Coleure:**](https://www.coleure.com/) Smart color picker.
+- [**Colllor:**](https://colllor.com/) Color palette generator.
+- [**Palette for Chrome:**](https://chrome.google.com/webstore/detail/palette-for-chrome/oolpphfmdmjbojolagcbgdemojhcnlod) Creates a color palette from any image.
 - PLTTS: Free color picker.
-- INSPIRATIONMaterialUp: Daily material design inspiration.
-- FLTDSGN: Daily showcase of the best flat UI design websites and apps.
-- Site Inspire: Web design inspiration.
-- UI Cloud: The largest user interface design database in the world.
-- Moodboard: Build a beautiful moodboard and share the result.
-- Crayon: The most comprehensive collection of marketing designs.
-- Land-Book: Product landing pages gallery.
-- Ocean: A community of designers sharing feedback.
-- Dribbble: Show and tell for designers.
-- Behance: Showcase & discover creative work.
-- Pttrns: Mobile user interface patterns.
-- Flat UI Design: Useful Pinterest board.
-- Awwwards: The awards for design, creativity and innovation.
-- The Starter Kit: Curated resources for developers and designers.
-- One Page Love: Resource for one-page website inspiration.
-- UI Parade: User interface design tools and design inspiration.
-- The Best Designs: The best of web design.Agile Designers: Best resources for designers & developers.
-- Niice: A search engine with taste.
+
+# INSPIRATION
+- [**MaterialUp:**](https://www.materialup.com/) Daily material design inspiration.
+- [**FLTDSGN**](https://fltdsgn.com/)**:** Daily showcase of the best flat UI design websites and apps.
+- [**Site Inspire:**](https://www.siteinspire.com/) Web design inspiration.
+- [**UI Cloud:**](https://ui-cloud.com/) The largest user interface design database in the world.
+- [**Moodboard:**](https://www.gomoodboard.com/) Build a beautiful moodboard and share the result.
+- [**Crayon:**](https://www.crayon.co/) The most comprehensive collection of marketing designs.
+- [**Land-Book:**](https://land-book.com/) Product landing pages gallery.
+- [**Ocean:**](https://ocean.ink/) A community of designers sharing feedback.
+- [**Dribbble:**](https://dribbble.com/) Show and tell for designers.
+- [**Behance:**](https://www.behance.net/) Showcase & discover creative work.
+- [**Pttrns:**](https://www.pttrns.com/) Mobile user interface patterns.
+- [**Flat UI Design:**](https://www.pinterest.com/warmarc/flat-ui-design/) Useful Pinterest board.
+- [**Awwwards:**](https://www.awwwards.com/) The awards for design, creativity and innovation.
+- [**The Starter Kit:**](https://www.thestarterkit.info/) Curated resources for developers and designers.
+- [**One Page Love:**](https://onepagelove.com/) Resource for one-page website inspiration.
+- [**UI Parade:**](https://www.uiparade.com/) User interface design tools and design inspiration.
+- [**The Best Designs:**](https://www.thebestdesigns.com/) The best of web design.Agile Designers: Best resources for designers & developers.
+- [**Niice:**](https://niice.co/) A search engine with taste.
 
 # Stock Photography
-- Stock Up: Best free stock photo websites in one place.
-- Pexels: Best free photos in one place.All The Free Stock: Free stock images, icons, and videos.
-- Unsplash: Free (do whatever you want) high-resolution photos.
-- Splashbase: Search & discover free, hi res photos & videos.
-- Startup Stock Photos: Go. Make something.
-- Jay Mantri: Free pics. do anything (CC0). Make magic.
-- Moveast: This is a journey of a Portuguese guy moving east.
-- Travel Coffee Book: Sharing beautiful travel moments.
-- Designers Pics: Free photographs for your personal & commercial use.
-- Death to the Stock Photo: Free photos sent to you every month.
-- Foodie’s Feed: Free food pictures in hi-res.
-- Mazwai: Free creative commons HD video clips & footages.
-- Jéshoots: New modern free photos.
+- [**Stock Up:**](https://www.sitebuilderreport.com/stock-up) Best free stock photo websites in one place.
+- [**Pexels:**](https://www.pexels.com/) Best free photos in one place.All The Free Stock: Free stock images, icons, and videos.
+- [**Unsplash:**](https://unsplash.com/) Free (do whatever you want) high-resolution photos.
+- [**Splashbase:**](https://www.splashbase.co/) Search & discover free, hi res photos & videos.
+- [**Startup Stock Photos:**](https://startupstockphotos.com/) Go. Make something.
+- [**Jay Mantri:**](https://jaymantri.com/) Free pics. do anything (CC0). Make magic.
+- [**Moveast:**](https://moveast.me/) This is a journey of a Portuguese guy moving east.
+- [**Travel Coffee Book:**](https://travelcoffeebook.com/) Sharing beautiful travel moments.
+- [**Designers Pics:**](https://www.designerspics.com/) Free photographs for your personal & commercial use.
+- [**Death to the Stock Photo:**](https://deathtothestockphoto.com/) Free photos sent to you every month.
+- [**Foodie’s Feed:**](https://foodiesfeed.com/) Free food pictures in hi-res.
+- [**Mazwai:**](https://mazwai.com/) Free creative commons HD video clips & footages.
+- [**Jéshoots**](https://jeshoots.com/)**:** New modern free photos.
+- [**Super Famous:**](https://superfamous.com/) Photos by Dutch interaction designer Folkert Gorter.
+- [**Pixabay:**](https://pixabay.com/) Free high-quality images.
 - Super Famous: Photos by Dutch interaction designer Folkert Gorter.
-- Pixabay: Free high-quality images.
-- Super Famous: Photos by Dutch interaction designer Folkert Gorter.
-- Picography: Free hi-resolution photos.
-- Pixabay: Free high-quality images.
-- Magdeleine: A free high-resolution photo every day.
-- Snapographic: Free stock photos for personal & commercial use.
-- Little Visuals: 7 hi-res images in your inbox every 7 days.
-- Splitshire: Delicious free stock photos.
-- New Old Stock: Vintage photos from the public archives.
-- Picjumbo: Totally free photos.
-- Life of Pix: Free high-resolution photos.
-- Gratisography: Free high-resolution photos.
-- Getrefe: Free photos.
-- IM Free: A curated collection of free resources.
-- Cupcake: A photographer’s treat by Jonas Nilsson Lee.
-- The Pattern Library: Free patterns for your projects.
-- Public Domain Archive: New 100% free stock photos.
-- ISO Republic: High-quality, free photos for creatives.
-- Stokpic: Totally free photos.Kaboompics: The best way to get free photos.
-- Function: Free photo packs.
-- MMT: Free stock photos by Jeffrey Betts.
-- Paul Jarvis: Free high-resolution photos.
-- Lock & Stock Photos: Free stock photos for you.
-- Raumrot: Free high-resolution picture.
-- Bucketlistly: A free creative common collection of travel photos.
+- [**Picography**](https://picography.co/)**:** Free hi-resolution photos.
+- [**Magdeleine:**](https://magdeleine.co/) A free high-resolution photo every day.
+- [**Snapographic:**](https://snapographic.com/) Free stock photos for personal & commercial use.
+- [**Little Visuals:**](https://littlevisuals.co/) 7 hi-res images in your inbox every 7 days.
+- [**Splitshire:**](https://splitshire.com/) Delicious free stock photos.
+- [**New Old Stock:**](https://nos.twnsnd.co/) Vintage photos from the public archives.
+- [**Picjumbo:**](https://picjumbo.com/) Totally free photos.
+- [**Life of Pix:**](https://www.lifeofpix.com/) Free high-resolution photos.
+- [**Gratisography:**](https://www.gratisography.com/) Free high-resolution photos.
+- [**Getrefe:**](https://getrefe.com/downloads/category/free/) Free photos.
+- [**IM Free:**](https://www.imcreator.com/free) A curated collection of free resources.
+- [**Cupcake:**](https://cupcake.nilssonlee.se/) A photographer’s treat by Jonas Nilsson Lee.
+- [**The Pattern Library:**](https://thepatternlibrary.com/) Free patterns for your projects.
+- [**Public Domain Archive:**](https://publicdomainarchive.com/) New 100% free stock photos.
+- [**ISO Republic:**](https://isorepublic.com/) High-quality, free photos for creatives.
+- [**Stokpic:**](https://stokpic.com/) Totally free photos.
+- [**Kaboompics:**](https://kaboompics.com/) The best way to get free photos.
+- [**Function**](https://wefunction.com/category/free-photos/)**:** Free photo packs.
+- [**MMT:**](https://mmt.li/) Free stock photos by Jeffrey Betts.
+- [**Paul Jarvis:**](https://pjrvs.com/a/photos) Free high-resolution photos.
+- [**Lock & Stock Photos:**](https://lockandstockphotos.com/) Free stock photos for you.
+- [**Raumrot:**](https://www.raumrot.com/10/) Free high-resolution picture.
+- [**Bucketlistly:**](https://photos.bucketlistly.com/) A free creative common collection of travel photos.
 - FreePhotosBankStockSnap: Beautiful free stock photos.
 - Unfinished Business: Free stock photos featuring Vince Vaughn.
 - Free Nature Stock: Royalty-free Nature Stock Photos. Use them however you want.
 - Others:
-  - Free Digital Photos
-  - Morguefile
-  - Public Domain Pictures
-  - Free Stockvault
-  - ImageFree
-  - Rgbstock
-  - Dreamstime
-  - FreeImages
-  - FreeRangeImages
+  - [**Free Digital Photos**](https://www.freedigitalphotos.net/) 
+  - [**Morguefile**](https://morguefile.com/)
+  - [**Public Domain Pictures**](https://www.publicdomainpictures.net/)
+  - [**Stockvault**](https://www.stockvault.net/)
+  - [**ImageFree**](https://www.imagefree.com/)
+  - [**Rgbstock**](https://www.dreamstime.com/free-images_pg1)
+  - [**Dreamstime**](https://www.rgbstock.com/)
+  - [**Free Images**](https://www.freeimages.com/)
+  - [**Free Range Stock**](https://freerangestock.com/)
+  - [**Free Photos Bank**](https://freephotosbank.com/)
 
 # Typography
-- TypeGenius: Find the perfect font combo for your next project.
-- Font Squirrel: 100% free commercial fonts.
-- FontFaceNinja: Browser extension to find the web fonts a site uses.
-- Google Fonts: Free, open-source fonts optimized for the web.Beautiful Web Type: Best typefaces from the Google web fonts directory.
-- DaFont: Archive of freely downloadable fonts.1001 Free Fonts: A huge selection of free fonts.
-- FontPark: The web’s largest archive of free fonts.
-- Font-to-width: Fit pieces of text snugly within their containers.
+- [**TypeGenius:**](https://www.typegenius.com/) Find the perfect font combo for your next project.
+- [**Font Squirrel:**](https://www.fontsquirrel.com/) 100% free commercial fonts.
+- [**FontFaceNinja:**](https://www.fontface.ninja/) Browser extension to find the web fonts a site uses.
+- [**Google Fonts:**](https://www.google.com/fonts) Free, open-source fonts optimized for the web.Beautiful Web Type: Best typefaces from the Google web fonts directory.
+- [**DaFont:**](https://www.dafont.com/) Archive of freely downloadable fonts.1001 Free Fonts: A huge selection of free fonts.
+- [**FontPark:**](https://www.fontpark.net/en/) The web’s largest archive of free fonts.
+- [**Font-to-width:**](https://font-to-width.com/) Fit pieces of text snugly within their containers.
 - Adobe Edge Fonts: The free, easy way to get started with web fonts.
 - Typekit: A limited collection of fonts to use on a website or in applications.
 
 # Icons
-- Fontello: Icon fonts generator.
-- Flat Icon: A search engine for 16000+ glyph vector icons.
-- Material Design Icons: 750 Free open-source glyphs by Google.
-- Font Awesome: The iconic font and CSS toolkit.
-- Glyphsearch: Search for icons from other icon databases.
-- MakeAppIcon: Generate App Icons of all sizes with a click.
-- Endless Icons: Free flat icons and creative stuff.
-- Ico Moon: 4000+ free vector icons, icon generator.
-- The Noun Project: Thousands of glyph icons from different artists.
-- Perfect Icons: A social icon creation tool.
-- Icon Finder: Free icon section of the website.
-- Free Round Icons: Doodle Set | Flat Set | Vector Line
-- SetIcon Sweets: 60 free vector Photoshop icons.
+- [**Fontello:**](https://fontello.com/) Icon fonts generator.
+- [**Flat Icon:**](https://www.flaticon.com/) A search engine for 16000+ glyph vector icons.
+- [**Material Design Icons:**](https://github.com/google/material-design-icons/releases/tag/1.0.0) 750 Free open-source glyphs by Google
+- [**Font Awesome:**](https://fortawesome.github.io/Font-Awesome/) The iconic font and CSS toolkit
+- [**Glyphsearch:**](https://glyphsearch.com/) Search for icons from other icon databases
+- [**MakeAppIcon:**](https://makeappicon.com/) Generate App Icons of all sizes with a click
+- [**Endless Icons:**](https://www.endlessicons.com/) Free flat icons and creative stuff.
+- [**Ico Moon:**](https://icomoon.io/) **4000**_+ free vector icons, icon generator.
+- [**The Noun Project:**](https://thenounproject.com/) Thousands of glyph icons from different artists.
+- [**Perfect Icons:**](https://perfecticons.com/) A social icon creation tool.
+- [**Material Design Icons:**](https://github.com/google/material-design-icons/releases/tag/1.0.0) **750** _Free open-source glyphs by Google.
+- [**Icon Finder:**](https://www.iconfinder.com/free_icons) Free icon section of the website.
+- _Free Round Icons:_ [**Doodle Set**](https://roundicons.com/doodle-icons-free-set/) **|** [**Flat Set**](https://roundicons.com/free-icons/) **|** [**Vector Line Set**](https://roundicons.com/free-vector-line-icons-set/)
+- [**Icon Sweets:**](https://iconsweets.com/) 60 free vector Photoshop icons.
 - Make Appicon: Generate App Icons of ALL sizes with a click.
 - App Icon Template: Royalty free app icon creator for iOS, OS X and Android.
 - SmartIcons: Download 1450 premium icons for free.
@@ -345,10 +351,11 @@ If you have another additional awesome free resource, please feel free to add it
 - FlatIcons: Free flat icon customizer, royalty free.To(icon): Free icons.
 
 # Useful Tools
-- UI Names: Generate random names for use in designs and mockups.
-- UI Faces: Find and generate sample avatars for user interfaces.
-- Copy Paste Character: Click to copy.
-- Window Resizer: See how it looks on various screen resolutions.
+- [**UI Names:**](https://uinames.com/) Generate random names for use in designs and mockups.
+- [**UI Faces:**](https://uifaces.com/) Find and generate sample avatars for user interfaces.
+- [**UI Blurbs:**](https://uiblurbs.com/) Quick user bios for your mockups.
+- [**Copy Paste Character:**](https://copypastecharacter.com/) Click to copy.
+- [**Window Resizer:**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en) See how it looks on various screen resolutions.
 - Sonics: Free packs of UI sounds and sound effects delivered to your inbox every month.
 
 # Developer & Code Related
@@ -377,28 +384,31 @@ If you have another additional awesome free resource, please feel free to add it
 - Cody: A free library of HTML, CSS, JS nuggets.
 
 # Background Sounds to Focus
-- Noisli: Background noise & color generator.
-- Noizio: Ambient sound equalizer for relax or productivity.
-- Defonic: Combine the sounds of the world into a melody.
-- Designers.mx: Curated playlists by designers, for designers.
-- Coffitivity: Stream the sounds of a coffee shop at work.
+- [**Noisli**](https://www.noisli.com/)**:** Background noise & color generator.
+- [**Noizio:**](https://noiz.io/) Ambient sound equalizer for relax or productivity.
+- [**Defonic:**](https://defonic.com/) Combine the sounds of the world into a melody.
+- [**Designers.mx:**](https://designers.mx/) Curated playlists by designers, for designers.
+- [**Coffitivity:**](https://coffitivity.com/) Stream the sounds of a coffee shop at work.
 - Octave: A free library of UI sounds, handmade for iOS.
 - Free Sound: Huge database of free audio snippets, samples, + recordings.
 - Sonics: Free packs of UI sounds and sound effects delivered to your inbox every month.
 - Deep Focus: Spotify’s famous playlist to focus.
 
 # Avoid Distraction
-- Self Control: Mac: free application to help you avoid distracting websites.
-- Cold Turkey: Windows: temporarily block yourself off distracting websites.
+- [**Self Control**](https://selfcontrolapp.com/)**:** Mac: free application to help you avoid distracting websites.
+- [**Cold Turkey:**](https://getcoldturkey.com/) Windows: temporarily block yourself off of distracting websites.
 
 # Organize & Collaborate
-- Trello: Keeps track of everything.
-- Evernote: The workspace for your life’s work.
-- Dropbox: Free space up to 2GB.
-- Yanado: Tasks management inside Gmail.
-- Wetransfer: Free transfer up to 2GB.
-- Drp.io: Free, fast, private and easy image and file hosting.
-- Pocket: View later, put it in Pocket.
+- [**Trello:**](https://trello.com/) Keeps track of everything.
+- [**Evernote:**](https://evernote.com/) The workspace for your life’s work.
+- [**Dropbox:**](https://www.dropbox.com/) Free space up to 2GB.
+- [**Yanado:**](https://yanado.com/) Tasks management inside Gmail.
+- [**Wetransfer:**](https://www.wetransfer.com/) Free transfer up to 2GB.
+- [**Drp.io:**](https://drp.io/) Free, fast, private and easy image and file hosting.
+- [**Pocket:**](https://getpocket.com/) View later, put it in Pocket.
+- [**Mailtoself:**](https://www.mailtoself.com/) An iOS extension to mail notes to yourself from any app.
+- [**List.ly:**](https://list.ly/) Discover and create great lists.
+- [**Markticle**](https://markticle.com/)**:** Mark your reading progress in articles for later.
 - Raindrop: Mac app for bookmarking and reading it later.
 - Flowdock: Free for teams of five and non-profits.
 - Typetalk: Share and discuss ideas with your team through instant messaging.
@@ -418,35 +428,37 @@ If you have another additional awesome free resource, please feel free to add it
 - Nomad House: Houses around the world for nomads to live and work together.
 - Workfrom: Coffee, Wi-Fi and good vibes.
 - Lastroom: Simplifying your team travel management.
-- Nomadlist: The best cities to live and work remotely.
-- What’s It Like: Helping travelers figure out WHEN to go.
-- Nomad Jobs: The best remote jobs at the best startups.
+- [**Nomadlist:**](https://nomadli.st/) The best cities to live and work remotely.
+- [**Where Nomads at:**](https://where-my-nomads.at/) Find digital nomads & travelers all around the world.
+- [**Nomad Jobs:**](https://nomadjobs.com/) The best remote jobs at the best startups.
+- [**What’s It Like:**](https://www.whatsitlikeapp.com/) Helping travelers figure out WHEN to go.
 
 # Discover Tools & Startups
-- Product Hunt: Curation of the best new products, every day.
-- Angellist: Where the world meets startups.
-- Beta List: Discover and get early access to tomorrow’s startups.
-- StartupLi.st: Find. Follow. Recommend startups.
-- Erli Bird: Where great new products are born.
+- [**Product Hunt:**](https://www.producthunt.com/) Curation of the best new products, every day.
+- [**Angellist:**](https://angel.co/) Where the world meets startups.
+- [**Beta List:**](https://betalist.com/) Discover and get early access to tomorrow’s startups.
+- [**StartupLi.st:**](https://startupli.st/) Find. Follow. Recommend startups.
+- [**Startups List:**](https://www.startups-list.com/) Collections of the best startups in different places.
+- [**Erli Bird:**](https://erlibird.com/) Where great new products are born.
 
 # Build Together
-- Assembly: Co-create new ideas no matter where they are.
-- CoFoundersLab: Find a co-founder in any city, any industry.
-- Founder2be: Find a co-founder for your startup.
+- [**Assembly:**](https://assembly.com/discover) Co-create new ideas no matter where they are.
+- [**CoFoundersLab:**](https://www.cofounderslab.com/) Find a co-founder in any city, any industry.
+- [**Founder2be:**](https://www.founder2be.com/) Find a co-founder for your startup.
 
 # Learn
-- Coursera: Free online classes from 80+ top universities & organizations.
-- Khan Academy: Free, world-class education for anyone, anywhere.
-- Skillshare: Unlock your creativity with free online classes & projects.
-- Codecademy: Learn to code interactively, for free.
-- How to Start a Startup: As an Audio Podcast or As Online Course by YC.
-- Startup Notes: Startup School invites amazing founders to tell their story.
-- The How: Learn from entrepreneurs.
-- Launch This Year: Guide to help you launch your online business.
-- Closed Club: Browse shut-down start-ups & learn why they closed.
-- Startup Talks: A curated collection of startup related videos.
-- Rocketship.fm: Learn from successful entrepreneurs each week.
-- reSRC.io: All free programming learning resources.
+- [**Skillshare:**](https://www.skillshare.com/) Unlock your creativity with free online classes & projects.
+- [**Khan Academy:**](https://www.khanacademy.org/) Free, world-class education for anyone, anywhere.
+- [**Coursera:**](https://www.coursera.org/) Free online classes from 80+ top universities & organizations.
+- [**Codecademy:**](https://www.codecademy.com/) Learn to code interactively, for free.
+- How to start a startup: [**As an Audio Podcast**](https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2) or [**As Online Course**](https://startupclass.co/)
+- [**Startup Notes:**](https://startupnotes.org/) Startup School invites amazing founders to tell their story.
+- [**The How:**](https://how.co/) Learn from entrepreneurs.
+- [**Launch This Year:**](https://launchthisyear.com/) Guide to help you launch your online business.
+- [**Closed Club:**](https://closedclub.co/) Browse shut-down start-ups & learn why they closed down.
+- [**Startup Talks:**](https://startuptalks.tv/) A curated collection of startup related videos.
+- [**Rocketship.fm:**](https://rocketship.fm/) Learn from successful entrepreneurs each week.
+- [**reSRC.io:**](https://resrc.io/) All free programming learning resources.
 - The Lean LaunchPad: How to Build a Startup.
 - TalentBuddy: Learn to code.
 - Mixergy: Learn from proven entrepreneurs.
@@ -464,11 +476,9 @@ If you have another additional awesome free resource, please feel free to add it
 
 # Misc Useful
 - [**Foundrs**](https://foundrs.com/): Co-founder equity calculator.
-- Ad Spend Calculator: Should my startup pay to advertise?
-- HowMuchToMakeAnApp: Calculate the cost of a mobile application.
-- App vs. Website: Should you build an app or website?
-- Pitcherific: Pitcherific helps you create, train, and improve your pitch.
+- [**Ad Spend Calculator:**](https://ad-spend-calculator.qwilr.com/) Should my startup pay to advertise?
+- [**HowMuchToMakeAnApp:**](https://howmuchtomakeanapp.com/) Calculate the cost of a mobile application.
+- [**App vs. Website:**](https://howmuchtomakeanapp.com/build-a-website-vs-app/) Should you build an app or website?
+- [**Pitcherific:**](https://pitcherific.com/) Pitcherific helps you create, train, and improve your pitch.
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.e cost of a mobile application.
-- Pitcherific: Pitcherific helps you create, train, and improve your pitch.
-- Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.
 - [**Picatic**](https://www.picatic.com/): Free event registration platform to host events.
