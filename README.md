@@ -22,7 +22,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Signature Maker**](https://signature-maker.net/): A free web based tool that creates your handwritten digital signature.
 
 # Invoice
-- [**Hive**](https://www.hive.im/): First free unlimited cloud service in the world.
 - [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
 - [**Free Invoice Generator**](https://www.free-invoice-generator.com/): Alternative free invoice generator.
 - [**Slimvoice**](https://slimvoice.co/): Insanely simple invoices.
