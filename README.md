@@ -468,6 +468,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Design for Hackers**](https://designforhackers.com/): 12 weeks of design learning, right in your inbox.
 - [**Startup Digest**](https://www.startupdigest.com/): Personalized newsletter for all things startup in your area.
 - [**Mattermark Daily**](https://mattermark.com/category/mattermark-daily/): Curated newsletter from investors & founders.
+- [**Pricing Newsletter**](https://taprun.com/newsletter/): Lessons, advice, and news stories to help you price your product.
 - ChargeWhatYou’reWorth: Free course on charging what you’re worth.
 - [**Product Psychology**](https://productpsychology.com/): Lessons on User Behavior.
 - [**UX Newsletter**](https://newsletter.uxdesign.cc/): Tales of researching, designing, and building.
