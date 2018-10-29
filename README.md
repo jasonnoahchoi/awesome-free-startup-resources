@@ -357,6 +357,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
 
 # Developer & Code Related
+- [Sentry](https://sentry.io/welcome/): Open-source error tracking & monitoring 
 - Hive: First free unlimited cloud service in the world.
 - GitHub: Build software better, together.
 - BitBucket: Git and Mercurial code management for teams.
