@@ -140,17 +140,16 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Sumome List Builder**](https://sumome.com/app/list-builder): Collect email addresses with light box popover.
 - [**Scroll Triggered Box**](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/): Boost your conversion rates — WordPress only.
 - [**Sumome Scroll Box**](https://sumome.com/app/scroll-box): Capture more email addresses, politely.
-- Mandrill: The fastest way to deliver email. Free 12K emails/month.
-- Mailgun: The Email Service For Developers. Free 10K emails/month.
-- Sendgrid: Delivers your transactional and marketing email. Free 12K emails/month.
-- Sendinblue: Free 9K emails/month.
-- Mailtrack: The best free email tracking solution.
-- Beefree: Free Email editor to build responsive design messages.
-- Canned Emails: A minimal site with prewritten emails.
-- Steak - Track if someone opened your emails. Especially useful if you're doing sales or outreach. Also adds a CRM to Gmail.
-- Really Good Emails - Superb for designed email inspiration. Welcome emails, sales emails, the whole works.
-- Gmass - Send mass emails in Gmail (up to 2000 emails/day). Gmail = way better deliverability than using an email marketing platform. Link it to a spreadsheet to personalize names and phrases for every contact.
-- Art of Emails - Tons of actually unique email templates for cold emails, outreach to influencers, sales follow ups, etc.
+- [**Mailgun**](https://www.mailgun.com/): The Email Service For Developers. Free 10K emails/month.
+- [**Sendgrid**](https://www.sendgrid.com/): Delivers your transactional and marketing email. Free 12K emails/month (Now owned by Twilio)
+- [**Sendinblue**](https://www.sendinblue.com/): Free 9K emails/month.
+- [**Mailtrack**](https://www.mailtrack.io/): The best free email tracking solution.
+- [**Beefree**](https://beefree.io/): Free Email editor to build responsive design messages.
+- [**Canned Emails**](http://www.cannedemails.com/): A minimal site with prewritten emails.
+- [**Streak**](https://www.streak.com/) - Track if someone opened your emails. Especially useful if you're doing sales or outreach. Also adds a CRM to Gmail.
+- [**Really Good Emails**](https://reallygoodemails.com/) - Superb for designed email inspiration. Welcome emails, sales emails, the whole works.
+- [**Gmass**](https://www.gmass.co) - Send mass emails in Gmail (up to 2000 emails/day). Gmail = way better deliverability than using an email marketing platform. Link it to a spreadsheet to personalize names and phrases for every contact.
+- [**Art of Emails**](https://artofemails.com/) - Tons of actually unique email templates for cold emails, outreach to influencers, sales follow ups, etc.
 
 # Guides and Courses
 - Primer: No-nonsense, jargon-free marketing lessons (by Google).
