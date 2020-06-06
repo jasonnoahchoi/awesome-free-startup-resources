@@ -181,16 +181,14 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Sumome Share**](https://sumome.com/app/share): Auto-optimizes your share buttons for max traffic.
 - [**Digg Digg**](https://wordpress.org/plugins/digg-digg/installation/): Your all in one share buttons plugin.
 - [**Disqus**](https://disqus.com/): Build a community of active readers & commenters.
-- App Review Monitor: App reviews delivered to Slack and your inbox.
-- Presskit Generator: Generate a Press Kit for your iOS App for free.
-- Free Survey Creator: Create a survey. Get user feedback for free.
+
 
 # Customer Service & Surveys
-- Typeform: Free beautiful online survey & form builder.
-- Tally: Create polls in no time.
-- Free Survey Creator: Create a survey. Get user feedback for free.
-- Batch: The first-ever 100% free engagement platform for mobile apps.
-- Helprace: Customer service tool. Free for up to 3 agents for small support teams.
+- [**Typeform**](https://www.typeform.com/): Free beautiful online survey & form builder.
+- [**TallySpace**](https://www.tallyspace.com/): Create polls in no time.
+- [**Free Survey Creator**](https://freesurveycreator.com/): Create a survey. Get user feedback for free.
+- [**Batch**](https://batch.com/): The first-ever 100% free engagement platform for mobile apps. A fully fledged mobile engagement platform to execute CRM tactics over iOS, Android, and mobile websites.
+- [**Helprace**](https://helprace.com/): Customer service tool. Free for up to 3 agents for small support teams.
 
 # A/B Tests & Growth Hacking
 - [**Petit Hacks**](https://petithacks.com/): Acquisition, retention, & revenue hacks used by companies.
@@ -216,9 +214,9 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Freepik**](https://www.freepik.com/): iFree graphic resources for everyone.
 - [**Tech&All**](https://www.techandall.com/): PSD, Tech News, and other resources for free.
 - [**Tethr**](https://www.invisionapp.com/tethr): The most beautiful IOS design KIT ever.
-- Web3Canvas: PSD Freebies, HTML Snippets, Inspirations & Tutorials.
-- SketchAppResources: Free graphical resources.
-- Placeit Freebies: Freebies delivered right to your Dropbox.
+- [**Web3Canvas**](https://web3canvas.com/): PSD Freebies, HTML Snippets, Inspirations & Tutorials.
+- [**SketchAppResources**](https://www.sketchappsources.com/): Free graphical resources.
+- [**Placeit Freebies**](https://placeit.net/): Freebies delivered right to your Dropbox.
 
 # Color Pickers
 - [**Material Palette**](https://www.materialpalette.com/): Generate & export your Material Design color palette.
@@ -301,9 +299,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Lock & Stock Photos**](https://lockandstockphotos.com/): Free stock photos for you.
 - [**Raumrot**](https://www.raumrot.com/10/): Free high-resolution picture.
 - [**Bucketlistly**](https://photos.bucketlistly.com/): A free creative common collection of travel photos.
-- FreePhotosBankStockSnap: Beautiful free stock photos.
-- Unfinished Business: Free stock photos featuring Vince Vaughn.
-- Free Nature Stock: Royalty-free Nature Stock Photos. Use them however you want.
+- [StockSnap](https://stocksnap.io/): Beautiful free stock photos.
+- [Free Nature Stock](https://freenaturestock.com/): Royalty-free Nature Stock Photos. Use them however you want.
 - Others:
   - [**Free Digital Photos**](https://www.freedigitalphotos.net/): 
   - [**Morguefile**](https://morguefile.com/)
@@ -324,8 +321,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**DaFont**](https://www.dafont.com/): Archive of freely downloadable fonts.1001 Free Fonts: A huge selection of free fonts.
 - [**FontPark**](https://www.fontpark.net/en/): The web’s largest archive of free fonts.
 - [**Font-to-width**](https://font-to-width.com/): Fit pieces of text snugly within their containers.
-- Adobe Edge Fonts: The free, easy way to get started with web fonts.
-- Typekit: A limited collection of fonts to use on a website or in applications.
+- [**Adobe Fonts**](https://fonts.adobe.com/): The free, easy way to get started with web fonts.
+- [Typekit](https://practice.typekit.com/): A limited collection of fonts to use on a website or in applications.
 
 # Icons
 - [**Fontello**](https://fontello.com/): Icon fonts generator.
@@ -338,15 +335,14 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Ico Moon**](https://icomoon.io/): **4000**_+ free vector icons, icon generator.
 - [**The Noun Project**](https://thenounproject.com/): Thousands of glyph icons from different artists.
 - [**Perfect Icons**](https://perfecticons.com/): A social icon creation tool.
-- [**Material Design Icons**](https://github.com/google/material-design-icons/releases/tag/1.0.0): **750** _Free open-source glyphs by Google.
+- [**Material Design Icons**](https://www.materialdesignicons.com): **750** _Free open-source glyphs by Google.
 - [**Icon Finder**](https://www.iconfinder.com/free_icons): Free icon section of the website.
 - _Free Round Icons:_ [**Doodle Set**](https://roundicons.com/doodle-icons-free-set/): **|** [**Flat Set**](https://roundicons.com/free-icons/): **|** [**Vector Line Set**](https://roundicons.com/free-vector-line-icons-set/)
 - [**Icon Sweets**](https://iconsweets.com/): 60 free vector Photoshop icons.
-- Make Appicon: Generate App Icons of ALL sizes with a click.
-- App Icon Template: Royalty free app icon creator for iOS, OS X and Android.
-- SmartIcons: Download 1450 premium icons for free.
-- Ego Icons: 100 Free vector icons with a clean look and feel.
-- FlatIcons: Free flat icon customizer, royalty free.To(icon): Free icons.
+- [**MakeAppIcon**](https://makeappicon.com/): Generate App Icons of ALL sizes with a click.
+- [**Apply Pixels**](https://applypixels.com/): Supercharge your design workflow with up-to-date UI Kits, Icon Templates and much more.
+- [**Icons8s**]: Free icons, photos, vectors, music, and tools.
+- [**Streamline Icons**](https://www.streamlineicons.com): Welcome to Streamline. The world's largest icon pack.
 
 # Useful Tools
 - [**UI Names**](https://uinames.com/): Generate random names for use in designs and mockups.
