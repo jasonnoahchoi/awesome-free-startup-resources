@@ -27,6 +27,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Slimvoice**](https://slimvoice.co/): Insanely simple invoices.
 - [**Wave**](https://www.waveapps.com): Free & easy accounting, invoicing and more.
 - [**Invoice.to**](https://invoice.to/): Free invoice generator.
+- [**Bonsai**](https://www.hellobonsai.com/): Invoices, online payments, expenses, and more.
 
 # Legal Docs
 - [**Kiss**](https://500.co/kiss/): Free legal docs for startup founders and investor, created by 500 Startups.
@@ -352,6 +353,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
 
 # Developer & Code Related
+- [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
 - [Sentry](https://sentry.io/welcome/): Open-source error tracking & monitoring 
 - Hive: First free unlimited cloud service in the world.
 - GitHub: Build software better, together.
