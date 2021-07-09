@@ -352,6 +352,10 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Copy Paste Character**](https://copypastecharacter.com/): Click to copy.
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
 
+# Scheduling & Booking Tools
+- [**Spurwing Scheduling API**](https://www.spurwing.io/): Spurwing's API makes it easy to add robust scheduling and booking to your application. We power millions of appointment bookings for thousands of companies, from marketplaces to SaaS and healthcare.
+- [**Cronofy Scheduling Tools**](https://www.cronofy.com/): Enterprise-ready scheduling tools, embeddable components and APIs. Tens of thousands of companies rely on Cronofy to power their scheduling.
+
 # Developer & Code Related
 - [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
 - [Sentry](https://sentry.io/welcome/): Open-source error tracking & monitoring 
