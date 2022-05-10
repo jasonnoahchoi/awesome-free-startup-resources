@@ -119,8 +119,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**ImageOptimizer**](https://www.imageoptimizer.net/Pages/Home.aspx): Resize, compress and optimize your image files.
 - [**ImageOptim**](https://imageoptim.com/): Makes images take up less disk space & load faster.
 - [**Smush.it**](https://wordpress.org/plugins/wp-smushit/): Image optimizer WordPress plugin.
-- Dunnnk: Beautiful mockups.
-- InstaMockup: Create beautiful screenshots of your app or website.
 
 # Image Editors
 - [**Canva**](https://www.canva.com/): Amazingly simple graphic design for bloggers.
@@ -355,29 +353,24 @@ If you have another additional awesome free resource, please feel free to add it
 # Developer & Code Related
 - [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
 - [Sentry](https://sentry.io/welcome/): Open-source error tracking & monitoring 
-- Hive: First free unlimited cloud service in the world.
-- GitHub: Build software better, together.
-- BitBucket: Git and Mercurial code management for teams.
-- Chisel: Chisel offers an unlimited number of fossil repositories.
-- Visual Studio: Comprehensive collection of developer tools and services.
-- Landscape: Landscape is an early warning system for your Python codebase.
-- Swiftype: Add great search to any website. Free with limitations.
-- Keen.io: Gather all the data you want & start getting the answers you need.
-- Coveralls: Test coverage history and statistics.
-- LingoHub: Free for Small Teams, Open Source usage and Educational projects.
-- Codacy: Continuous Static Analysis designed to complement your unit tests.
-- Searchcode: Search over 20 billion lines of code.
-- TinyCert: Free SSL certificates for your startup.
-- StartSSL: Free SSL certificates.
-- Opbeat: The first ops platform for developers. Free for small teams.
-- Pingdom: Website monitoring. Free for one website.
-- Rollbar: Full-stack error monitoring for all apps in any language.
-- Loggly: Simplify Log Management Forever. Free for one user.
-- Devport: Get your developer portfolio.
-- Getting Real: The smarter way to build web apps. A free book by 37signals.
-- Peek: Get a free, 5-minute video of someone using your site.Creator: Build better Ionic apps, faster.
-- DevFreeCasts: A huge collection of free screencasts for developers.
-- Cody: A free library of HTML, CSS, JS nuggets.
+- [Argonaut](https://argonaut.dev/): Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.
+- [GitHub](http://github.com/): Build software better, together.
+- [BitBucket](https://bitbucket.org/product): Git and Mercurial code management for teams.
+- [Chisel](https://www.chisel-lang.org/): Chisel offers an unlimited number of fossil repositories.
+- [Visual Studio](https://visualstudio.microsoft.com/): Comprehensive collection of developer tools and services.
+- [Swiftype](https://swiftype.com/): Add great search to any website. Free with limitations.
+- [Keen.io](https://keen.io/): Gather all the data you want & start getting the answers you need.
+- [Coveralls](https://coveralls.io/): Test coverage history and statistics.
+- [LingoHub](https://lingohub.com/): Free for Small Teams, Open Source usage and Educational projects.
+- [Codacy](https://www.codacy.com/): Continuous Static Analysis designed to complement your unit tests.
+- [Searchcode](https://searchcode.com/): Search over 20 billion lines of code.
+- [TinyCert](https://www.tinycert.org/): Free SSL certificates for your startup.
+- [Opbeat](https://github.com/opbeat): The first ops platform for developers. Free for small teams.
+- [Pingdom](https://tools.pingdom.com/): Website monitoring. Free for one website.
+- [Rollbar](https://rollbar.com/): Full-stack error monitoring for all apps in any language.
+- [Loggly](https://www.loggly.com/): Simplify Log Management Forever. Free for one user.
+- [Getting Real](https://basecamp.com/books/getting-real): The smarter way to build web apps. A free book by 37signals.
+- [Cody](https://codyhouse.co/): A free library of HTML, CSS, JS nuggets.
 
 # Background Sounds to Focus
 - [**Noisli**](https://www.noisli.com/): Background noise & color generator.
@@ -405,18 +398,15 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Mailtoself**](https://www.mailtoself.com/): An iOS extension to mail notes to yourself from any app.
 - [**List.ly**](https://list.ly/): Discover and create great lists.
 - [**Markticle**](https://markticle.com/): Mark your reading progress in articles for later.
-- Raindrop: Mac app for bookmarking and reading it later.
-- Flowdock: Free for teams of five and non-profits.
-- Typetalk: Share and discuss ideas with your team through instant messaging.
-- Slack: Free for unlimited users with few limited features.
-- Google Hangouts: Bring conversations to life with photos, emoji and group video calls.
-- Voveet: Simple, free 3D conference calls. Experience the difference.
-- FreeBusy: Eliminate coordination headaches when you need to schedule a meeting.
-- RealTimeBoard: Your regular whiteboard, re-thought for the best online experience.
-- Witkit: Witkit is the secure platform for teams. 50GB of free encrypted data storage.
-- Any.do: Get things done with your team.
-- Asana: Teamwork without email.
-- GoToMeeting: Online meetings without the hassle.
+- [Raindrop](https://raindrop.io/): Mac app for bookmarking and reading it later.
+- [Flowdock](https://www.flowdock.com/): Free for teams of five and non-profits.
+- [Typetalk](https://www.typetalk.com/): Share and discuss ideas with your team through instant messaging.
+- [Slack](https://slack.com/): Free for unlimited users with few limited features.
+- [FreeBusy](https://freebusy.io/en): Eliminate coordination headaches when you need to schedule a meeting.
+- [Miro](https://miro.com/): Your regular whiteboard, re-thought for the best online experience.
+- [Any.do](https://www.any.do/): Get things done with your team.
+- [Asana](https://asana.com/): Teamwork without email.
+- [GoToMeeting](https://www.goto.com/): Online meetings without the hassle.
 
 # Digital Nomads and Remote Working
 - [**Founded X Startup Stats**](https://www.foundedx.com/stats): Find the best country to build your startup in.
