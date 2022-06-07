@@ -119,6 +119,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**ImageOptimizer**](https://www.imageoptimizer.net/Pages/Home.aspx): Resize, compress and optimize your image files.
 - [**ImageOptim**](https://imageoptim.com/): Makes images take up less disk space & load faster.
 - [**Smush.it**](https://wordpress.org/plugins/wp-smushit/): Image optimizer WordPress plugin.
+- [**Optimizeimages**](https://www.optimizeimages.com): Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 
 # Image Editors
 - [**Canva**](https://www.canva.com/): Amazingly simple graphic design for bloggers.
@@ -342,6 +343,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Apply Pixels**](https://applypixels.com/): Supercharge your design workflow with up-to-date UI Kits, Icon Templates and much more.
 - [**Icons8s**]: Free icons, photos, vectors, music, and tools.
 - [**Streamline Icons**](https://www.streamlineicons.com): Welcome to Streamline. The world's largest icon pack.
+- [**3dicons**](https://www.3dicons.com/): A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views
+- [**iconshock**](https://www.iconshock.com/): 2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :)
 
 # Useful Tools
 - [**UI Names**](https://uinames.com/): Generate random names for use in designs and mockups.
@@ -349,6 +352,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**UI Blurbs**](https://uiblurbs.com/): Quick user bios for your mockups.
 - [**Copy Paste Character**](https://copypastecharacter.com/): Click to copy.
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
+- [**Tshirt designs**](https://www.tshirtdesigns.com/mockups): You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business.
 
 # Developer & Code Related
 - [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
