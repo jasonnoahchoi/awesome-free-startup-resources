@@ -199,6 +199,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**GrowthHackers**](https://growthhackers.com/): Unlocking growth. Together.
 
 # Design Resources
+- [**Sinwaver**](https://www.sinwaver.com/): Export perfect SVG sine waves.
 - [**Freebbble**](https://freebbble.com/): High-quality design freebies from Dribbble.
 - [**Dribbble**](https://dribbble.com/search?q=freebie): Dribbble search results for “freebie”. An absolute freebie treasure.
 - [**Graphic Burger**](https://graphicburger.com/): Tasty design resources made with care for each pixel.
