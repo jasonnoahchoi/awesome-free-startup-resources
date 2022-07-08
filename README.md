@@ -40,6 +40,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
 # Business / Project Name Generator
+- [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
 - [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
 - [**Naminum**](https://www.naminum.com/): Discover a perfect company name.
 - [**Short Domain Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
