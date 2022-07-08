@@ -114,6 +114,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
 
 # Image Optimizers
+- [**Image Host Company**](https://www.imagehostcompany.com/): Host images on your Google Drive.
 - [**TinyJPG**](https://tinyjpg.com/): | [**TinyPNG**](https://tinypng.com/):  Compress images.
 - [**Compressor.io**](https://compressor.io/): Optimize and compress your images online.
 - [**Kraken**](https://kraken.io/web-interface): Optimize your images & accelerate your websites.
