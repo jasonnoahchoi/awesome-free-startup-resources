@@ -40,6 +40,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
 # Business / Project Name Generator
+- [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
 - [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
 - [**Naminum**](https://www.naminum.com/): Discover a perfect company name.
 - [**Short Domain Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
@@ -113,6 +114,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
 
 # Image Optimizers
+- [**Image Host Company**](https://www.imagehostcompany.com/): Host images on your Google Drive.
 - [**TinyJPG**](https://tinyjpg.com/): | [**TinyPNG**](https://tinypng.com/):  Compress images.
 - [**Compressor.io**](https://compressor.io/): Optimize and compress your images online.
 - [**Kraken**](https://kraken.io/web-interface): Optimize your images & accelerate your websites.
@@ -197,6 +199,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**GrowthHackers**](https://growthhackers.com/): Unlocking growth. Together.
 
 # Design Resources
+- [**Sinwaver**](https://www.sinwaver.com/): Export perfect SVG sine waves.
 - [**Freebbble**](https://freebbble.com/): High-quality design freebies from Dribbble.
 - [**Dribbble**](https://dribbble.com/search?q=freebie): Dribbble search results for “freebie”. An absolute freebie treasure.
 - [**Graphic Burger**](https://graphicburger.com/): Tasty design resources made with care for each pixel.
