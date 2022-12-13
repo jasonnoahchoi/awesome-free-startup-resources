@@ -112,6 +112,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**XML Sitemaps**](https://www.xml-sitemaps.com/): Sitemap generator that creates XML & HTML variants.
 - [**Shopify E-commerce Report**](https://ecommerce.shopify.com/grader): Get your free Ecommerce report.
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
+- [**DebugBear Speed Test**](https://www.debugbear.com/test/website-speed): Test site speed and Core Web Vitals
 
 # Image Optimizers
 - [**Image Host Company**](https://www.imagehostcompany.com/): Host images on your Google Drive.
