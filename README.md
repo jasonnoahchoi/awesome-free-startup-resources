@@ -20,6 +20,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Hipster Logo Generator**](https://www.hipsterlogogenerator.com/): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
 - [**Squarespace Free Logo**](https://www.squarespace.com/logo/): You can download free low-res version for free.
 - [**Signature Maker**](https://signature-maker.net/): A free web based tool that creates your handwritten digital signature.
+- [**Branition**](https://branition.com): Unused logos marketplace, brand designers for hire and free branding tools.
 
 # Invoice
 - [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
