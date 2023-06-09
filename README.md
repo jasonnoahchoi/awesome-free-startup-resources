@@ -36,6 +36,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Shake**](https://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
 
 # Idea Management
+- [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
