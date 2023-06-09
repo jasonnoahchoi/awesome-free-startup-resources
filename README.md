@@ -37,7 +37,6 @@ If you have another additional awesome free resource, please feel free to add it
 
 # Idea Management
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
-- [**Germ.io**](https://www.germ.io/): Get from idea to execution.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
 # Business / Project Name Generator
