@@ -199,6 +199,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Optimizely**](https://www.optimizely.com/): One optimization platform for websites and mobile apps.
 - [**Hello Bar**](https://write%20better%20content%20and%20have%20a%20fully%20optimized%20wordpress%20site/): Tool for A/B testing different CTAs & power words.
 - [**GrowthHackers**](https://growthhackers.com/): Unlocking growth. Together.
+- [**Cello**](https://cello.so/): User-led growth platform for B2B SaaS.
 
 # Design Resources
 - [**Sinwaver**](https://www.sinwaver.com/): Export perfect SVG sine waves.
