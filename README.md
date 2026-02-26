@@ -34,7 +34,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Kiss**](https://500.co/kiss/): Free legal docs for startup founders and investor, created by 500 Startups.
 - [**Docracy**](https://www.docracy.com): An open collection of free legal documents.
 - [**Shake**](https://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
-- [**Gatherly**](https://gatherly.so): E-signature and document collection platform for professional services. Streamline client intake with secure links.
+- [**Gatherly**](https://gatherly.shop): E-signature and document collection platform for professional services. Streamline client intake with secure links.
 
 # Idea Management
 - [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
