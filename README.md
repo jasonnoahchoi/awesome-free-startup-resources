@@ -114,6 +114,15 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Shopify E-commerce Report**](https://ecommerce.shopify.com/grader): Get your free Ecommerce report.
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
 - [**DebugBear Speed Test**](https://www.debugbear.com/test/website-speed): Test site speed and Core Web Vitals
+- [**RatedWithAI**](https://ratedwithai.com): Free AI-powered website accessibility checker — scans for WCAG 2.2 & ADA compliance issues with actionable fix suggestions.
+
+# Accessibility Testing
+- [**RatedWithAI**](https://ratedwithai.com): Free accessibility scanner that checks websites for WCAG 2.2 AA compliance and ADA issues, with AI-generated fix suggestions.
+- [**WAVE**](https://wave.webaim.org/): Free web accessibility evaluation tool by WebAIM.
+- [**axe DevTools**](https://www.deque.com/axe/devtools/): Browser extension for accessibility testing by Deque Systems.
+- [**Pa11y**](https://pa11y.org/): Open-source automated accessibility testing tools.
+- [**Lighthouse**](https://developer.chrome.com/docs/lighthouse/): Google's built-in website auditing tool covering accessibility, performance, and SEO.
+- [**Color Contrast Checker**](https://ratedwithai.com/tools/color-contrast-checker): Free tool to verify text meets WCAG color contrast requirements.
 
 # Image Optimizers
 - [**Image Host Company**](https://www.imagehostcompany.com/): Host images on your Google Drive.
