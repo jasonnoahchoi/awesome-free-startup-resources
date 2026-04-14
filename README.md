@@ -39,6 +39,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 # Business / Project Name Generator
 - [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
