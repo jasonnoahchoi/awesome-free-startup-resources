@@ -489,3 +489,4 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Pitcherific**](https://pitcherific.com/): Pitcherific helps you create, train, and improve your pitch.
 - [**Startup Equity Calculator**](https://startupequity.io/): Figure out how much equity to grant new hires in seconds.
 - [**Picatic**](https://www.picatic.com/): Free event registration platform to host events.
+- [WebCoreLab Free Audit](https://webcorelab.com) — Free 272-check AI-powered SEO audit for startups. Includes GEO/AEO score for AI search visibility.
