@@ -369,6 +369,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
 - [**Tshirt designs**](https://www.tshirtdesigns.com/mockups): You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business.
 
+- [**TinyTools**](https://tinytools-smoky.vercel.app/): Collection of free single-purpose browser utilities — favicon generator, OG image generator, color palette generator, SEO meta tag generator, AI background remover (runs in-browser, no upload), AI cost calculator, and domain name generator. No signup required.
+
 # Developer & Code Related
 - [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
 - [Sentry](https://sentry.io/welcome/): Open-source error tracking & monitoring 
