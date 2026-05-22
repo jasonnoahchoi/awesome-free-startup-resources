@@ -468,6 +468,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**The Lean LaunchPad**](https://www.udacity.com/course/how-to-build-a-startup--ep245): How to Build a Startup.
 - [**Mixergy**](https://mixergy.com/): Learn from proven entrepreneurs.
 - [**Hack Design**](https://hackdesign.org/): Receive a design lesson in your inbox each week.
+- [TutorialSearch](https://tutorialsearch.io/browse/entrepreneurship/it-startup) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 # Newsletters that Don't Suck
 - [**Email1K**](https://email1k.com/): A free 30 day course to double your email list.
