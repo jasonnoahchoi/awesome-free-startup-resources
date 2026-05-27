@@ -135,6 +135,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Optimizeimages**](https://www.optimizeimages.com): Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 
 # Image Editors
+- [**PhotoRestore.ai**](https://photorestore.ai): AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images.
 - [**Canva**](https://www.canva.com/): Amazingly simple graphic design for bloggers.
 - [**Pixlr**](https://apps.pixlr.com/editor/): Pixlr Editor is a robust browser photo editor.
 - [**Skitch**](https://evernote.com/skitch/): Get your point across with fewer words.
