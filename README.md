@@ -37,6 +37,7 @@ If you have another additional awesome free resource, please feel free to add it
 
 # Idea Management
 - [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
+- [**BizChecker AI**](https://bizchecker.ai): Stress-tests your startup idea through 6 adversarial AI models simultaneously. Returns a structured GO/NO-GO verdict with kill-signal analysis. $39 one-time.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
