@@ -440,6 +440,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**arbeitnow**](https://arbeitnow.com): Remote jobs board
 
 # Discover Tools & Startups
+- [**AiToolsObserver**](https://aitoolsobserver.com/): Discover and compare AI tools, follow industry trends, and submit AI products for free.
 - [**Product Hunt**](https://www.producthunt.com/): Curation of the best new products, every day.
 - [**Angellist**](https://angel.co/): Where the world meets startups.
 - [**Beta List**](https://betalist.com/): Discover and get early access to tomorrow’s startups.
