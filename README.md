@@ -200,6 +200,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Typeform**](https://www.typeform.com/): Free beautiful online survey & form builder.
 - [**TallySpace**](https://www.tallyspace.com/): Create polls in no time.
 - [**Free Survey Creator**](https://freesurveycreator.com/): Create a survey. Get user feedback for free.
+- [**ReputeMap Review Response Generator**](https://reputemap.com/tools/review-response-generator): Free AI-assisted Google review reply generator with tone and star-rating controls.
 - [**Batch**](https://batch.com/): The first-ever 100% free engagement platform for mobile apps. A fully fledged mobile engagement platform to execute CRM tactics over iOS, Android, and mobile websites.
 - [**Helprace**](https://helprace.com/): Customer service tool. Free for up to 3 agents for small support teams.
 
