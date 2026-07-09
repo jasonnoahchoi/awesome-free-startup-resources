@@ -91,6 +91,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**WordPress SEO by Yoast**](https://wordpress.org/plugins/wordpress-seo/): Have a fully optimized WordPress site.
 - [**SEO Site Checkup**](https://seositecheckup.com/): Check your website’s SEO problems for free.
 - [**Hubspot Marketing Grader**](https://marketing.grader.com/): Grade your marketing.
+- [**AnswerLens**](https://app.sfdj.net/): Free public-evidence audit for B2B SaaS sites, covering pricing, comparison, trust, docs, and proof gaps.
 - [**SimilarWeb**](https://www.similarweb.com/): Analyze website statistics for any domain.
 - [**Alexa Ranking**](https://www.alexa.com/): Analytical insights to analyze any site’s rank.
 - [**SERPs Rank Checker**](https://serps.com/tools/rank_checker): Free keyword rank & SERP checker.
