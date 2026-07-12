@@ -481,6 +481,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**UX Design Weekly**](https://uxdesignweekly.com/): Best user experience design links every week.
 
 # Misc Useful
+- [**Grant Match**](https://autogranthunter.com/grant-match/?ref=awesome-startup-resources): Free tool that matches your startup or nonprofit to open U.S. federal grants using live Grants.gov data - no signup.
 - [**Foundrs**](https://foundrs.com/): Co-founder equity calculator.
 - [**Ad Spend Calculator**](https://ad-spend-calculator.qwilr.com/): Should my startup pay to advertise?
 - [**Calcmatic**](https://calcmatic.app): Free calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance.
