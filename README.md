@@ -482,6 +482,7 @@ If you have another additional awesome free resource, please feel free to add it
 
 # Misc Useful
 - [**Foundrs**](https://foundrs.com/): Co-founder equity calculator.
+- [**Nutilz Break-Even Calculator**](https://nutilz.com/break-even-calculator): Free calculator to find your break-even units, revenue, and contribution margin — no signup required.
 - [**Ad Spend Calculator**](https://ad-spend-calculator.qwilr.com/): Should my startup pay to advertise?
 - [**Calcmatic**](https://calcmatic.app): Free calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance.
 - [**HowMuchToMakeAnApp**](https://howmuchtomakeanapp.com/): Calculate the cost of a mobile application.
