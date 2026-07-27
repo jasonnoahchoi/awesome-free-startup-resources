@@ -443,6 +443,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Product Hunt**](https://www.producthunt.com/): Curation of the best new products, every day.
 - [**Angellist**](https://angel.co/): Where the world meets startups.
 - [**Beta List**](https://betalist.com/): Discover and get early access to tomorrow’s startups.
+- [**Mydentify**](https://mydentify.com/): Discover and compare products by what you want to accomplish, with public evidence for each recommendation.
 - [**StartupLi.st**](https://startupli.st/): Find. Follow. Recommend startups.
 - [**Startups List**](https://www.startups-list.com/): Collections of the best startups in different places.
 - [**Erli Bird**](https://erlibird.com/): Where great new products are born.
