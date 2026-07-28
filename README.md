@@ -390,6 +390,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [Loggly](https://www.loggly.com/): Simplify Log Management Forever. Free for one user.
 - [Getting Real](https://basecamp.com/books/getting-real): The smarter way to build web apps. A free book by 37signals.
 - [Cody](https://codyhouse.co/): A free library of HTML, CSS, JS nuggets.
+- [**REEZN**](https://reezn.io/): Spec-driven development workflow, turns a feature idea into a reviewed blueprint before code gets written. Free tier: 3 seats, 1 project, 5 features/month.
 
 # Background Sounds to Focus
 - [**Noisli**](https://www.noisli.com/): Background noise & color generator.
