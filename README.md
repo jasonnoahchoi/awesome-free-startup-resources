@@ -209,6 +209,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Hello Bar**](https://write%20better%20content%20and%20have%20a%20fully%20optimized%20wordpress%20site/): Tool for A/B testing different CTAs & power words.
 - [**GrowthHackers**](https://growthhackers.com/): Unlocking growth. Together.
 - [**Cello**](https://cello.so/): User-led growth platform for B2B SaaS.
+- [**Klinky**](https://klinky.io/): A/B testing link shortener — split one link between two destinations and measure which one wins. Free tier.
 
 # Design Resources
 - [**Sinwaver**](https://www.sinwaver.com/): Export perfect SVG sine waves.
