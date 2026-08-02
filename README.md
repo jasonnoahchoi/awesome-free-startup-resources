@@ -4,6 +4,7 @@ Inspired by [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit, w
 A curated open list of _free_ resources to help you jump start your startup today. Links are continuously being updated.
 
 If you have another additional awesome free resource, please feel free to add it by forking this repo onto your github and submitting a PR. Thanks.
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 
 # Website
