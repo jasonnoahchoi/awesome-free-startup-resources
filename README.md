@@ -115,6 +115,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
 - [**DebugBear Speed Test**](https://www.debugbear.com/test/website-speed): Test site speed and Core Web Vitals
 - [**RatedWithAI**](https://ratedwithai.com): Free AI-powered website accessibility checker — scans for WCAG 2.2 & ADA compliance issues with actionable fix suggestions.
+- [**MergeFix**](https://mergefix.com): Free audit of your site for SEO, performance, accessibility, and security issues — opens the fixes as a real GitHub pull request instead of just a report.
 
 # Accessibility Testing
 - [**RatedWithAI**](https://ratedwithai.com): Free accessibility scanner that checks websites for WCAG 2.2 AA compliance and ADA issues, with AI-generated fix suggestions.
