@@ -156,6 +156,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Mailgun**](https://www.mailgun.com/): The Email Service For Developers. Free 10K emails/month.
 - [**Sendgrid**](https://www.sendgrid.com/): Delivers your transactional and marketing email. Free 12K emails/month (Now owned by Twilio)
 - [**Sendinblue**](https://www.sendinblue.com/): Free 9K emails/month.
+- **[Mailtrap](https://mailtrap.io/)**: Email API and SMTP for sending transactional and bulk emails. Free 4K emails/month.
 - [**Mailtrack**](https://www.mailtrack.io/): The best free email tracking solution.
 - [**Beefree**](https://beefree.io/): Free Email editor to build responsive design messages.
 - [**Canned Emails**](http://www.cannedemails.com/): A minimal site with prewritten emails.
