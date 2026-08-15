@@ -154,6 +154,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Scroll Triggered Box**](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/): Boost your conversion rates — WordPress only.
 - [**Sumome Scroll Box**](https://sumome.com/app/scroll-box): Capture more email addresses, politely.
 - [**Mailgun**](https://www.mailgun.com/): The Email Service For Developers. Free 10K emails/month.
+- [**Reloop**](https://reloop.sh/): Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
 - [**Sendgrid**](https://www.sendgrid.com/): Delivers your transactional and marketing email. Free 12K emails/month (Now owned by Twilio)
 - [**Sendinblue**](https://www.sendinblue.com/): Free 9K emails/month.
 - [**Mailtrack**](https://www.mailtrack.io/): The best free email tracking solution.
