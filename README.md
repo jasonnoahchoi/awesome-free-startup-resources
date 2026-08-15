@@ -37,6 +37,7 @@ If you have another additional awesome free resource, please feel free to add it
 
 # Idea Management
 - [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
+- [**IdeaHunter**](https://ideahunter.today/): AI research for finding demand-backed app and micro-SaaS ideas. Freemium.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
