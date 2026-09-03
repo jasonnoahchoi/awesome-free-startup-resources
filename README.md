@@ -446,6 +446,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**StartupLi.st**](https://startupli.st/): Find. Follow. Recommend startups.
 - [**Startups List**](https://www.startups-list.com/): Collections of the best startups in different places.
 - [**Erli Bird**](https://erlibird.com/): Where great new products are born.
+- [**StartupPerks**](https://startupperks.co/): Find the free credits, perks, and deals your startup actually qualifies for, ranked by value and eligibility.
 
 # Build Together
 - [**Assembly**](https://assembly.com/discover): Co-create new ideas no matter where they are.
