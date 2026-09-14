@@ -489,3 +489,4 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Pitcherific**](https://pitcherific.com/): Pitcherific helps you create, train, and improve your pitch.
 - [**Startup Equity Calculator**](https://startupequity.io/): Figure out how much equity to grant new hires in seconds.
 - [**Picatic**](https://www.picatic.com/): Free event registration platform to host events.
+- [**Perpiece**](https://perpiece.aifirm.app/?utm_source=github&utm_campaign=e06_startup_resources#tool): Free no-account wholesale order contribution calculator for product sellers, including materials, labor, packaging, fees, shipping, and a target minimum order. Saving cost sheets in a workspace is optional and paid.
