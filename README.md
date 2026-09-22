@@ -429,15 +429,11 @@ If you have another additional awesome free resource, please feel free to add it
 - [GoToMeeting](https://www.goto.com/): Online meetings without the hassle.
 
 # Digital Nomads and Remote Working
-- [**Founded X Startup Stats**](https://www.foundedx.com/stats): Find the best country to build your startup in.
 - [**Teleport**](https://teleport.org/): Startup Cities: Discover and budget your next move to 100+ startup cities.
-- [**Nomad House**](https://nomadhouse.io/): Houses around the world for nomads to live and work together.
-- [**Workfrom**](https://workfrom.co/): Coffee, Wi-Fi and good vibes.
-- [**Nomadlist**](https://nomadli.st/): The best cities to live and work remotely.
-- [**Where Nomads at**](https://where-my-nomads.at/): Find digital nomads & travelers all around the world.
-- [**Nomad Jobs**](https://nomadjobs.com/): The best remote jobs at the best startups.
-- [**What’s It Like**](https://www.whatsitlikeapp.com/): Helping travelers figure out WHEN to go.
+- [**Workfrom**](https://www.workfrom.co/): Coffee, Wi-Fi and good vibes.
+- [**Nomads.com**](https://nomads.com/): The best cities to live and work remotely.
 - [**arbeitnow**](https://arbeitnow.com): Remote jobs board
+- [**CoworkingView**](https://coworkingview.com): Search coworking and private offices in Europe and the UAE, with the operator's published price instead of a quote form.
 
 # Discover Tools & Startups
 - [**Product Hunt**](https://www.producthunt.com/): Curation of the best new products, every day.
