@@ -50,6 +50,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Impossibility**](https://impossibility.org/): The best domain name generator ever.
 - [**Lean Domain Search**](https://www.leandomainsearch.com/): Find a domain name for your website in seconds.
 - [**Domainr**](https://domainr.com/): Fast, free, domain name search, short URLs.
+- [**Domain Renewal Prices**](https://namesale.store/renewal-prices): Compare first-year and renewal prices for 530 domain extensions before you register.
 
 # Writing / Blogging
 - [**Hemingway**](https://www.hemingwayapp.com/): Hemingway App makes your writing bold and clear.
