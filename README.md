@@ -57,6 +57,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Medium**](https://medium.com/): Everyone’s stories and ideas.
 - [**ZenPen**](https://www.zenpen.io/): The minimal writing tool of web.
 - [**Liberio**](https://liber.io/): Simple eBook creation and publishing right from Google Drive.
+- [**kdpbook.io KDP tools**](https://kdpbook.io/kdp): Free Amazon KDP calculators (spine width, cover size with template, printing cost, royalties) and a book description formatter, no signup.
 - [**Editorial Calendar**](https://wordpress.org/plugins/editorial-calendar/): See all your posts, drag & drop to manage your blog.
 - [**Story Wars**](https://www.storywars.net/): Writing stories together.
 - [**Headline Analyzer**](https://www.aminstitute.com/headline/): Emotional marketing value headline analyzer.
