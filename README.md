@@ -92,6 +92,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**SEO Site Checkup**](https://seositecheckup.com/): Check your website’s SEO problems for free.
 - [**Hubspot Marketing Grader**](https://marketing.grader.com/): Grade your marketing.
 - [**SimilarWeb**](https://www.similarweb.com/): Analyze website statistics for any domain.
+- [**Inteldo**](https://inteldo.com/) : Business research across connected data sources, including SEO and website analysis.
 - [**Alexa Ranking**](https://www.alexa.com/): Analytical insights to analyze any site’s rank.
 - [**SERPs Rank Checker**](https://serps.com/tools/rank_checker): Free keyword rank & SERP checker.
 - [**OpenLinkProfiler**](https://openlinkprofiler.org/): The freshest backlinks, for free.
