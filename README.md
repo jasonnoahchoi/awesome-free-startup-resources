@@ -402,6 +402,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Sonics**](https://www.sonics.io/): Free packs of UI sounds and sound effects delivered to your inbox every month.
 - Deep Focus: Spotify’s famous playlist to focus.
 - [**The Ultimate Background Noise Generator**](https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php): Free BG sounds from a coffee shop to music to tones designed to help you focus.
+- [**AmbientNoise**](https://www.ambientnoise.io/): Free ambient & background noise mixer. Layer rain, white/brown/pink noise, cafe, fan and nature sounds, with sleep & focus timers. No signup.
 
 # Avoid Distraction
 - [**Self Control**](https://selfcontrolapp.com/): Mac: free application to help you avoid distracting websites.
