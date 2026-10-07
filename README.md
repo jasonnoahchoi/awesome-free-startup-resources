@@ -175,6 +175,7 @@ If you have another additional awesome free resource, please feel free to add it
 - FirstSiteGuide: The beginner’s guide to successful blogging.
 
 # Social Media + Community Management
+- [**TvojeLajky Engagement Rate Calculator**](https://tvojelajky.cz/nastroje/mira-zapojeni): Free Czech-language calculator for likes plus comments relative to followers, reach or views; browser-local inputs, no signup or profile lookup.
 - [**WriteRack**](https://writerack.com/): The best way to tweetstorm.
 - [**Spruce**](https://www.tryspruce.com/): Make Twitter ready images in seconds.
 - [**Click To Tweet**](https://coschedule.com/click-to-tweet): Get more shares on your content.
